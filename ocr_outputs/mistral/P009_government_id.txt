@@ -1,0 +1,34 @@
+=== MISTRAL OCR OUTPUT ===
+Filename: P009_government_id
+image_path: sample_dataset_placeholder\P009\P009_government_id.png
+processing_time_ms: 2191.342830657959
+lines_extracted: 16
+word_count: 42
+
+==================================================
+
+--------------------------------------------------------------------------
+
+                         GOI
+
+-------------------------
+
+[IMAGE]
+
+AADHAAR
+
+Name:            Manbir Ahluwalia
+Father’s Name:   Hredeaan Ahluwalia
+Date of Birth:   08/01/1987
+Aadhaar No:      3487 3471 4345 [highlighted in yellow]
+
+Address:
+32, Shetty Circle, Proddatur, Haryana - 727889
+Phone:           +915798687277
+
+[IMAGE]
+
+Unique Identification Authority of India
+www.uidai.gov.in
+
+--------------------------------------------------------------------------

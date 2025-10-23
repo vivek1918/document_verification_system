@@ -1,0 +1,10 @@
+=== MISTRAL OCR OUTPUT ===
+Filename: P008_employment_letter
+image_path: sample_dataset_placeholder\P008\P008_employment_letter.png
+processing_time_ms: 674.4649410247803
+lines_extracted: 1
+word_count: 1
+
+==================================================
+
+leşik

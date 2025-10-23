@@ -1,0 +1,47 @@
+=== MISTRAL_ENHANCED OCR OUTPUT ===
+Filename: P009_employment_letter_employment_letter
+image_path: sample_dataset_placeholder\P009\P009_employment_letter.png
+doc_type: employment_letter
+processing_time_ms: 6746.251106262207
+lines_extracted: 23
+word_count: 138
+
+==================================================
+
+Sure, here is the exact text from the employment letter:
+
+---
+
+TechCorp Solutions Pvt. Ltd.
+
+Tower A Cyber Park, Bangalore - 560001
+
+Email: hr@techcorp.com | Phone: +91-80-12345678
+
+---
+
+EMPLOYMENT CERTIFICATE
+
+Date: August 13, 2025
+
+This is to certify that Manbir Ahluwalia is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
+
+| Employee Name:      | Manbir Ahluwalia                     |
+|---------------------|-------------------------------------|
+| Father's Name:      | Hredhaan Ahluwalia                   |
+| Date of Birth:      | January 08, 1987                     |
+| Employee ID:        | EMP3168                              |
+| Designation:        | Senior Analyst                       |
+| PAN Number:         | WY967054                             |
+| Email:              | manbir.ahluwalia@yahoo.com           |
+| Residential Address | House No. 32, Shetty Circle, Proddatur - 727889, Haryana |
+
+This letter is issued at the request of the employee for official purposes.
+
+For TechCorp Solutions Pvt. Ltd.
+
+_____________________________
+
+Authorized Signatory
+
+---

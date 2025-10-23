@@ -1,0 +1,52 @@
+=== MISTRAL OCR OUTPUT ===
+Filename: P005_employment_letter
+image_path: sample_dataset_placeholder\P005\P005_employment_letter.png
+processing_time_ms: 3229.886531829834
+lines_extracted: 26
+word_count: 135
+
+==================================================
+
+![Logo]
+
+---
+
+TechCorp Solutions Pvt. Ltd.
+
+Tower A Cyber Park, Bangalore - 560001
+
+Email: hr@techcorp.com | Phone: +91-80-12345678
+
+---
+
+# EMPLOYMENT CERTIFICATE
+
+---
+
+Date: August 13, 2025
+
+This is to certify that Ladli Agate is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
+
+| Employee Name:      | Ladli Agate          |
+|---------------------|----------------------|
+| Father's Name:      | Madhavi Agate        |
+| Date of Birth:      | December 13, 1971    |
+| Employee ID:        | EMP3462              |
+| Designation:        | Project Manager      |
+| PAN Number:         | UQNOT6998U           |
+| Email:              | ladli.agate@gmail.com|
+| Residential Address | House No. H No. 74, Sur Marg, Jhansi - 098050, Jharkhand |
+
+---
+
+This letter is issued at the request of the employee for official purposes.
+
+---
+
+For TechCorp Solutions Pvt. Ltd.
+
+Authorized Signatory
+
+---
+
+![Company Seal]

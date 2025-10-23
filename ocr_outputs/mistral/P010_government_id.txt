@@ -1,0 +1,30 @@
+=== MISTRAL OCR OUTPUT ===
+Filename: P010_government_id
+image_path: sample_dataset_placeholder\P010\P010_government_id.png
+processing_time_ms: 1946.2778568267822
+lines_extracted: 15
+word_count: 37
+
+==================================================
+
+ Eztこのほかのテキストを抽出すると、
+
+```
+       GOI
+
+AADHAAR
+
+Name:      Thomas Sura
+Father’s Name:  Theodore Sura
+Date of Birth:   16/09/2000
+Aadhaar No:      5299 1241
+
+Address:
+H.No 67, Ramachandran Nagar, Machilipatnam, Telangana
+- 729806
+
+Phone:     +919901627204
+
+Unique Identification Authority of India
+www.uidai.gov.in
+```
