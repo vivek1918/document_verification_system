@@ -1,27 +1,28 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P002_government_id
 image_path: sample_dataset_placeholder\P002\P002_government_id.png
-processing_time_ms: 3177.680492401123
-lines_extracted: 13
-word_count: 40
+processing_time_ms: 3697.842597961426
+lines_extracted: 12
+word_count: 52
 
 ==================================================
 
-その一方で、このAadhaarカードのテキストは以下の通りです：
+Sure, here is the exact text as it appears in the document image:
 
-Government of India (GOI)
-(LOGO)
+Government of India Logo (GOI)
 
 AADHAAR
 
-PHOTO
-
-Name:    NICHOLAS PRABHAKAR
-Father's Name:   Isha Prahakar
+Name:      NICHOLAS PRABHAKAR
+Father’s Name:   Isha Prahakar
 Date of Birth:   10/05/2000
-Aadhaar No:      7242 3884 9696
-Address:         419, Walla Street, Ujjain, Manipur - 483503
-Phone:           +910564139537
+
+Aadhaar No:     [highlighted] 7242 3884 9696
+
+Address:
+419, Walla Street, Ujjain, Manipur - 483503
+
+Phone: +910564139537
 
 Unique Identification Authority of India
 www.uidai.gov.in

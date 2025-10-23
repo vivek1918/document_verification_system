@@ -1,17 +1,17 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P006_government_id
 image_path: sample_dataset_placeholder\P006\P006_government_id.png
-processing_time_ms: 2778.1269550323486
-lines_extracted: 14
-word_count: 41
+processing_time_ms: 4055.3901195526123
+lines_extracted: 16
+word_count: 40
 
 ==================================================
 
 その一方で、このAadhaarカードのテキストは以下の通りです：
 
 ---
-
-Government of India (LOGO)
+GOI
+UIDAI
 
 AADHAAR
 
@@ -22,10 +22,10 @@ Father's Name:   Alka Toor
 Date of Birth:   31/07/1973
 Aadhaar No:      5348 7401 6400
 
-Address:
-513, Mane Path, Bahraich, Uttarakhando - 980841
-
+Address
+513, Mane Path, Bahraich, Uttarakhanda - 980841
 Phone:     +91 2411824493
 
 Unique Identification Authority of India
 www.uidai.gov.in
+---

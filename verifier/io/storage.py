@@ -15,8 +15,6 @@ def ensure_directories():
     directories = [
         "ocr_outputs/mistral",
         "ocr_outputs/mistral_enhanced", 
-        "ocr_outputs/tesseract",
-        "ocr_outputs/easyocr", 
         "metrics/ocr",
         "metrics/evaluation",
         "logs"

@@ -2,47 +2,41 @@
 Filename: P008_bank_statement_bank_statement
 image_path: sample_dataset_placeholder\P008\P008_bank_statement.png
 doc_type: bank_statement
-processing_time_ms: 6019.875526428223
-lines_extracted: 25
-word_count: 152
+processing_time_ms: 6400.572061538696
+lines_extracted: 23
+word_count: 105
 
 ==================================================
 
 Sure, here is the exact text from the bank statement:
 
 ---
+```
+          NIB
 
-**National India Bank**
-
+NATIONAL INDIA BANK
 Banking with Trust
 
-**BANK STATEMENT**
+BANK STATEMENT
 
 September 2025
 
----
+Account Holder: Ronith Patla
+Account Number: 3791769367
+Date of Birth: 29-04-1997
+Phone Number: +91-2994680443
+Address: H No 595 Mital Zila, Alappuzha, Karnataka, PIN: 482366
 
-| Account Holder: | Ronith Patla |
-|-----------------|--------------|
-| Account Number: | 3791769367   |
-| Date of Birth:   | 29-04-1997   |
-| Phone Number:   | +91-2994680443 |
-| Address:        | H No 595 Mital Zila, Alappuzha, Karnataka, PIN: 482366 |
+Statement Date: 12-09-2025
 
----
+Date          Description          Debit (₹)   Credit (₹)   Balance (₹)
+01-09-2025    Opening Balance      -           -           50,000.00
+05-09-2025    Salary Credit        -           85,000.00   1,35,000.00
+10-09-2025    Utility Payment      2,500.00    -            1,32,500.00
+15-09-2025    ATM Withdrawal       5,000.00    -            1,27,500.00
 
-**Statement Date:** 12-09-2025
-
-| Date        | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
-|-------------|-------------------|-----------|------------|-------------|
-| 01-09-2025  | Opening Balance   | -         | -          | 50,000.00   |
-| 05-09-2025  | Salary Credit      | -         | 85,000.00  | 1,35,000.00 |
-| 10-09-2025  | Utility Payment    | 2,500.00  | -          | 1,32,500.00 |
-| 15-09-2025  | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00 |
-
----
-
-This is a computer-generated statement and does not require signature.
+This is a computer-generated statement and does not require signature
 
 National India Bank | Mumbai Main Branch
 Email: care@nationalindiabank.com | Phone: 1800-XXX-XXXX
+```

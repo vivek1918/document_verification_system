@@ -1,16 +1,15 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P003_bank_statement
 image_path: sample_dataset_placeholder\P003\P003_bank_statement.png
-processing_time_ms: 4170.330286026001
-lines_extracted: 26
-word_count: 157
+processing_time_ms: 19591.497898101807
+lines_extracted: 27
+word_count: 158
 
 ==================================================
 
 Here is the exact text from the document image:
 
 ---
-
 ![NIB Logo]
 # NATIONAL INDIA BANK
 ## Banking with Trust
@@ -21,12 +20,14 @@ Here is the exact text from the document image:
 
 ### September 2025
 
-| Account Holder: | Amara Oak |
-|-----------------|-----------|
-| Account Number: | 7871331509 |
-| Date of Birth:  | 21-11-1979 |
-| Phone Number:   | +91-2528809570 |
-| Address:        | H.No 62 Aggarwal Chowk, Orai, Tripura, PIN: 814893 |
+| Account Holder:   | Amara Oak                     |
+|-------------------|-------------------------------|
+| Account Number:   | 7871331509                    |
+| Date of Birth:    | 21-11-1979                    |
+| Phone Number:     | +91-2528809570                |
+| Address:          | H.No 62 Aggarwal Chawk, Orai, Tripura, PIN: 814893 |
+
+---
 
 ### Statement Date: 12-09-2025
 
@@ -39,7 +40,7 @@ Here is the exact text from the document image:
 
 ---
 
-This is a computer-generated statement and does not require signature
+This is a computer-generated statement and does not require signature.
 
 ---
 

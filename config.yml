@@ -1,7 +1,4 @@
-ocr:
-  enable_tesseract: false
-  enable_easyocr: false
-  easyocr_device: "cuda"  # will auto-fallback to cpu if cuda not available
+ocr:  # will auto-fallback to cpu if cuda not available
   mistral_api_key: "${MISTRAL_API_KEY}"  # TODO: Add your key
   enable_mistral_ocr: true
   enable_mistral_ocr_enhanced: true

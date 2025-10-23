@@ -2,18 +2,18 @@
 Filename: P010_government_id_government_id
 image_path: sample_dataset_placeholder\P010\P010_government_id.png
 doc_type: government_id
-processing_time_ms: 6416.053295135498
+processing_time_ms: 4927.966594696045
 lines_extracted: 15
-word_count: 54
+word_count: 62
 
 ==================================================
 
-Here is the exact text from the government ID document:
+Here is the exact text as it appears in the government ID document:
 
 ---
 GOI (Top-center in oval shape)
 
-AADHAAR
+AADHAAR (Centered below the GOI oval)
 
 Name:      Thomas Sura
 Father's Name:   Theodore Sura
@@ -22,8 +22,8 @@ Aadhaar No:      5299 1241 (highlighted in yellow)
 Address:
 H.No 67, Ramachandran Nagar, Machilipatnam, Telangana
 - 729806
-Phone:     +91 9901627204
+Phone:     +919901627204
 
 Unique Identification Authority of India
-www.uidai.gov.in
+www.uidai.gov.in (Bottom-center)
 ---

@@ -1,9 +1,9 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P010_bank_statement
 image_path: sample_dataset_placeholder\P010\P010_bank_statement.png
-processing_time_ms: 6137.474060058594
-lines_extracted: 26
-word_count: 158
+processing_time_ms: 5241.448163986206
+lines_extracted: 28
+word_count: 153
 
 ==================================================
 
@@ -11,15 +11,19 @@ Here is the exact text from the document image:
 
 ---
 
-![NIB Logo]
-# NATIONAL INDIA BANK
-## Banking with Trust
+![NIB Logo](NIB)
+
+**NATIONAL INDIA BANK**
+
+Banking with Trust
 
 ---
 
-# BANK STATEMENT
+**BANK STATEMENT**
 
-### September 2025
+September 2025
+
+---
 
 | Account Holder: | Thomas Sura |
 |-----------------|-------------|
@@ -28,14 +32,16 @@ Here is the exact text from the document image:
 | Phone Number:   | +91-9901627204 |
 | Address:        | H.No.67 Ramachandran Nagar, Machilipatnam, Telangana, PIN: 729806 |
 
-| Statement Date: | 12-09-2025 |
+---
 
-| Date       | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
-|------------|-------------------|-----------|------------|-------------|
-| 01-09-2025 | Opening Balance   | -         | -          | 50,000.00   |
-| 05-09-2025 | Salary Credit      | -         | 85,000.00  | 1,35,000.00 |
-| 10-09-2025 | Utility Payment    | 2,500.00  | -          | 1,32,500.00 |
-| 15-09-2025 | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00 |
+**Statement Date:** 12-09-2025
+
+| Date        | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
+|-------------|-------------------|-----------|------------|-------------|
+| 01-09-2025  | Opening Balance   | -         | -          | 50,000.00    |
+| 05-09-2025  | Salary Credit      | -         | 85,000.00  | 1,35,000.00  |
+| 10-09-2025  | Utility Payment    | 2,500.00  | -          | 1,32,500.00  |
+| 15-09-2025  | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00  |
 
 ---
 
@@ -44,4 +50,5 @@ This is a computer-generated statement and does not require signature
 ---
 
 National India Bank | Mumbai Main Branch
+
 Email: care@nationalindiabank.com | Phone: 1800-XXX-XXXX

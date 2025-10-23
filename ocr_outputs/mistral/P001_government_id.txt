@@ -1,34 +1,35 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P001_government_id
 image_path: sample_dataset_placeholder\P001\P001_government_id.png
-processing_time_ms: 4183.981418609619
-lines_extracted: 16
-word_count: 41
+processing_time_ms: 2958.883285522461
+lines_extracted: 17
+word_count: 45
 
 ==================================================
 
-その一方で、ここには以下のテキストが含まれています：
+その一方で、このAadhaarカードのテキストは以下の通りです：
 
-```
+---
+
 GOI
-
-UIDAI
+(LOGO/Emblem of Government of India)
 
 AADHAAR
 
-Name:      ISAAC BAKSHI
-Father's Name:  Anvi Bakshi
-Date of Birth:  07/09/1998
+PHOTO
 
-Aadhaar No:    4235 1161 5594
+Name:     ISAAC BAKSHI
+Father's Name:   Anvi Bakshi
+Date of Birth:   07/09/1998
+Aadhaar No:     4235 1161 5594
 
 Address:
 321, Chahal Circle, Patna, Andhra Pradesh - 338908
 
-Phone:         +91 3863794026
-
-PHOTO
+Phone:
++91 3863794026
 
 Unique Identification Authority of India
 www.uidai.gov.in
-```
+
+---

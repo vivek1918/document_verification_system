@@ -2,47 +2,42 @@
 Filename: P004_employment_letter_employment_letter
 image_path: sample_dataset_placeholder\P004\P004_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 4668.248414993286
-lines_extracted: 24
-word_count: 144
+processing_time_ms: 7842.093706130981
+lines_extracted: 22
+word_count: 116
 
 ==================================================
 
-Certainly! Here is the exact text from the employment letter:
+Sure, here is the exact text from the employment letter:
 
 ---
 
-**[TECH Logo]**
+TechCorp Solutions Pvt. Ltd.
 
-**TechCorp Solutions Pvt. Ltd.**
-
-Tower A Cyber Park, Bangalore - 560001
-
+Tower A Cyber Park Bangalore - 560001
 Email: hr@techcorp.com | Phone: +91 80 12345678
 
 ---
 
-**EMPLOYMENT CERTIFICATE**
+EMPLOYMENT CERTIFICATE
 
 Date: August 13, 2025
 
-This is to certify that **Victor Kannan** is a confirmed employee of **TechCorp Solutions Pvt. Ltd.** The details are as follows:
+This is to certify that Victor Kannan is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
-| Employee Name:      | Victor Kannan          |
-|---------------------|------------------------|
-| Father's Name:      | Abhimanyu Kannan       |
-| Date of Birth:      | June 19, 1982          |
-| Employee ID:        | EMP1080                |
-| Designation:        | Project Manager        |
-| PAN Number:         | DPECZ2624J             |
-| Email:              | victor.kannan@yahoo.com|
-| Residential Address | House No. H No. 031, Narayanan Nagar, Kottayam - 738299, Haryana |
+Employee Name: Victor Kannan
+Father's Name: Abhimanyu Kannan
+Date of Birth: June 19, 1982
+Employee ID: EMP1080
+Designation: Project Manager
+PAN Number: DPECZ2624J
+Email: victor.kannan@yahoo.com
+Residential Address
+House No. H No 031, Narayan Nagar, Kottayam - 738299, Haryana
 
-This letter is issued at the request of the employee for official purposes.
+This letter is issued at the request of the employee for official purposes
 
-For **TechCorp Solutions Pvt. Ltd.**
-
-**[COMPANY SEAL]**
+For TechCorp Solutions Pvt. Ltd.
 
 Authorized Signatory
 

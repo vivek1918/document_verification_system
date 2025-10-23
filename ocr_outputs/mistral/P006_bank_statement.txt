@@ -1,9 +1,9 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P006_bank_statement
 image_path: sample_dataset_placeholder\P006\P006_bank_statement.png
-processing_time_ms: 3880.7268142700195
-lines_extracted: 25
-word_count: 150
+processing_time_ms: 17457.08966255188
+lines_extracted: 26
+word_count: 158
 
 ==================================================
 
@@ -11,17 +11,15 @@ Here is the exact text from the document image:
 
 ---
 
-![NIB Logo](logo)
-
-**NATIONAL INDIA BANK**
-
-Banking with Trust
+![NIB Logo]
+# NATIONAL INDIA BANK
+### Banking with Trust
 
 ---
 
-**BANK STATEMENT**
+# BANK STATEMENT
 
-September 2025
+### September 2025
 
 | Account Holder: | Tanay Toor |
 |-----------------|-----------|
@@ -30,7 +28,7 @@ September 2025
 | Phone Number:   | +91-2411824493 |
 | Address:        | 513 Mane Path, Bahraich, Uttarakhando, PIN: 980841 |
 
-Statement Date: 12-09-2025
+| Statement Date: | 12-09-2025 |
 
 | Date        | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
 |-------------|-------------------|-----------|------------|-------------|
@@ -39,7 +37,9 @@ Statement Date: 12-09-2025
 | 10-09-2025  | Utility Payment   | 2,500.00  | -          | 1,32,500.00  |
 | 15-09-2025  | ATM Withdrawal    | 5,000.00  | -          | 1,27,500.00  |
 
-This is a computer-generated statement and does not require signature.
+---
+
+This is a computer-generated statement and does not require signature
 
 ---
 

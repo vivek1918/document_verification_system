@@ -1,7 +1,7 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P010_employment_letter
 image_path: sample_dataset_placeholder\P010\P010_employment_letter.png
-processing_time_ms: 5178.230762481689
+processing_time_ms: 5340.663909912109
 lines_extracted: 24
 word_count: 149
 
@@ -29,10 +29,10 @@ This is to certify that Thomas Sura is a confirmed employee of TechCorp Solution
 
 | Employee Name:      | Thomas Sura                     |
 |---------------------|---------------------------------|
-| Father’s Name:      | Theodore Sura                   |
+| Father's Name:      | Theodore Sura                    |
 | Date of Birth:      | September 16, 2000              |
 | Employee ID:        | EMP0330                         |
-| Designation:        | Project Manager                |
+| Designation:        | Project Manager                 |
 | PAN Number:         | PEXPC8053W                      |
 | Email:              | thomas.sura@yahoo.com           |
 | Residential Address | House No. H No 67, Ramachandran Nagar, Machilipatnam - 729806, Telangana |
@@ -41,8 +41,7 @@ This letter is issued at the request of the employee for official purposes
 
 For TechCorp Solutions Pvt. Ltd.
 
-[Company Seal]
-
+__________________________
 Authorized Signatory
 
----
+![Company Seal]

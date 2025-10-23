@@ -22,7 +22,7 @@ def extract_entities(
     Extract structured entities from OCR results using Groq API or fallback regex.
 
     Args:
-        ocr_results: Dict with OCR results (mistral, mistral_enhanced, tesseract, easyocr)
+        ocr_results: Dict with OCR results (mistral, mistral_enhanced)
         doc_type: Type of document
         use_groq: Whether to use Groq for extraction
         groq_api_key: Groq API key

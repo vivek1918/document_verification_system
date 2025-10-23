@@ -2,9 +2,9 @@
 Filename: P003_employment_letter_employment_letter
 image_path: sample_dataset_placeholder\P003\P003_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 3439.7714138031006
-lines_extracted: 24
-word_count: 144
+processing_time_ms: 4462.196350097656
+lines_extracted: 23
+word_count: 136
 
 ==================================================
 
@@ -12,36 +12,36 @@ Sure, here is the extracted text from the employment letter:
 
 ---
 
-**[Logo: TECH]**
-
-**TechCorp Solutions Pvt. Ltd.**
+TechCorp Solutions Pvt. Ltd.
 
 Tower A Cyber Park, Bangalore - 560001
-Email: hr@techcorp.com | Phone: +91 80 12345678
+
+Email: hr@techcorp.com | Phone: +91-80-12345678
 
 ---
 
-**EMPLOYMENT CERTIFICATE**
+EMPLOYMENT CERTIFICATE
 
 Date: August 13, 2025
 
-This is to certify that **Amara Oak** is a confirmed employee of **TechCorp Solutions Pvt. Ltd.** The details are as follows:
+This is to certify that Amara Oak is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
-| Employee Name:      | Amara Oak                |
-|---------------------|--------------------------|
-| Father's Name:      | Isaac Oak                |
-| Date of Birth:      | November 21, 1979        |
-| Employee ID:        | EMP3465                  |
-| Designation:        | Project Manager          |
-| PAN Number:         | QHMBN2782I               |
-| Email:              | amara.oak@gmail.com      |
-| Residential Address | House No. H.No. 62, Aggarwal Chowk, Orai - 814893, Tripura |
+| Employee Name:     | Amara Oak                     |
+|--------------------|-------------------------------|
+| Father's Name:     | Isaac Oak                     |
+| Date of Birth:     | November 21, 1979             |
+| Employee ID:       | EMP3465                       |
+| Designation:       | Project Manager               |
+| PAN Number:        | QHMBN2782I                    |
+| Email:             | amara.oak@gmail.com           |
+| Residential Address| House No. H.No. 62, Aggarwal Chowk, Orai-814893, Tripura |
 
 This letter is issued at the request of the employee for official purposes.
 
-For **TechCorp Solutions Pvt. Ltd.**
+For TechCorp Solutions Pvt. Ltd.
 
-**[Company Seal]**
+_____________________________
 
-______________________
 Authorized Signatory
+
+---

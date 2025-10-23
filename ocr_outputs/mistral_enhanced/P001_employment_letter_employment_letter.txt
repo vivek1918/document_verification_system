@@ -2,15 +2,17 @@
 Filename: P001_employment_letter_employment_letter
 image_path: sample_dataset_placeholder\P001\P001_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 3644.6659564971924
-lines_extracted: 23
-word_count: 139
+processing_time_ms: 8717.132806777954
+lines_extracted: 24
+word_count: 144
 
 ==================================================
 
-Sure, here is the exact text from the employment letter:
+Sure, here is the extracted text from the employment letter:
 
 ---
+
+**[Logo with "TECH" text]**
 
 TechCorp Solutions Pvt. Ltd.
 
@@ -20,27 +22,28 @@ Email: hr@techcorp.com | Phone: +91-80-12345678
 
 ---
 
-EMPLOYMENT CERTIFICATE
+**EMPLOYMENT CERTIFICATE**
 
 Date: August 13, 2025
 
 This is to certify that Isaac Bakshi is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
-| Employee Name:      | Isaac Bakshi                     |
-|---------------------|----------------------------------|
-| Father's Name:      | Anvi Bakshi                      |
-| Date of Birth:      | September 07, 1998               |
-| Employee ID:        | EMP5931                          |
-| Designation:        | Software Engineer                |
-| PAN Number:         | YFJSO0781N                       |
-| Email:              | isaac.bakshi@yahoo.com           |
+| Employee Name:      | Isaac Bakshi              |
+|---------------------|---------------------------|
+| Father's Name:      | Anvi Bakshi               |
+| Date of Birth:      | September 07, 1998        |
+| Employee ID:        | EMP5931                   |
+| Designation:        | Software Engineer         |
+| PAN Number:         | YFJSO0781N                |
+| Email:              | isaac.bakshi@yahoo.com    |
 | Residential Address | House No. 321, Chahal Circle, Patna - 338908, Andhra Pradesh |
 
 This letter is issued at the request of the employee for official purposes.
 
 For TechCorp Solutions Pvt. Ltd.
 
-______________________
-Authorized Signatory
+**[Company Seal]**
 
----
+_____________________
+
+Authorized Signatory

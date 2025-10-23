@@ -1,7 +1,7 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P008_bank_statement
 image_path: sample_dataset_placeholder\P008\P008_bank_statement.png
-processing_time_ms: 3897.4671363830566
+processing_time_ms: 10171.451330184937
 lines_extracted: 26
 word_count: 160
 
@@ -22,20 +22,20 @@ Here is the exact text from the document image:
 ### September 2025
 
 | Account Holder: | Ronith Patla |
-|-----------------|-------------|
-| Account Number: | 3791769367  |
-| Date of Birth:  | 29-04-1997  |
+|-----------------|--------------|
+| Account Number: | 3791769367   |
+| Date of Birth:  | 29-04-1997   |
 | Phone Number:   | +91-2994680443 |
-| Address:        | H No 595 Mital Zila, Alappuzha, Karnataka, PIN: 482366 |
+| Address:        | H No 595 Mital Zila, Alapuzha, Karnataka, PIN: 482366 |
 
 | Statement Date: | 12-09-2025 |
 
-| Date       | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
-|------------|-------------------|-----------|------------|-------------|
-| 01-09-2025 | Opening Balance   | -         | -          | 50,000.00   |
-| 05-09-2025 | Salary Credit     | -         | 85,000.00  | 1,35,000.00 |
-| 10-09-2025 | Utility Payment   | 2,500.00  | -          | 1,32,500.00 |
-| 15-09-2025 | ATM Withdrawal    | 5,000.00  | -          | 1,27,500.00 |
+| Date         | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
+|--------------|-------------------|-----------|------------|-------------|
+| 01-09-2025   | Opening Balance   | -         | -          | 50,000.00    |
+| 05-09-2025   | Salary Credit      | -         | 85,000.00  | 1,35,000.00  |
+| 10-09-2025   | Utility Payment    | 2,500.00  | -          | 1,32,500.00  |
+| 15-09-2025   | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00  |
 
 ---
 
