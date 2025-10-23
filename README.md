@@ -83,12 +83,12 @@ Build `document_verification_system` from the source and install dependencies:
 
 The system follows a modular architecture with multiple stages of document processing and validation.
 
-<img width="1044" height="930" alt="_- visual selection (4)" src="https://github.com/user-attachments/assets/8f008053-7142-4dfe-9fcd-d43e6c29a4ce" />
+<img width="1044" height="930" alt="visual selection" src="https://github.com/user-attachments/assets/8f008053-7142-4dfe-9fcd-d43e6c29a4ce" />
 
 ```mermaid
 flowchart LR
-A[Input Document Images] --> B[OCR Engines (Tesseract / Mistral / EasyOCR)]
-B --> C[Text Normalization & Cleaning]
-C --> D[Entity Extraction (Name, DOB, PAN, etc.)]
-D --> E[Cross-Document Validation]
-E --> F[JSON Output + Logs]
+  A[Input Document Images] --> B[OCR Engines<br/>Mistral · Tesseract · EasyOCR]
+  B --> C[Text Normalization & Cleaning]
+  C --> D[Entity Extraction<br/>Name, DOB, PAN, etc.]
+  D --> E[Cross-Document Validation]
+  E --> F[JSON Output + Logs]
