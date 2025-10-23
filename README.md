@@ -120,7 +120,7 @@ The system follows a modular architecture with multiple stages of document proce
 ---
 
 ## Project Structure
-
+```bash
 doc-verification_system/
 ├─ README.md
 ├─ requirements.txt
