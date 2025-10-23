@@ -17,12 +17,20 @@ _Built with the tools and technologies:_
 
 ---
 
+<img width="672" height="516" alt="_- visual selection (3)" src="https://github.com/user-attachments/assets/667c1263-62e8-4c2b-bbd9-f7f78ec101fa" />
+
+---
+
 ## Table of Contents
 - [Overview](#overview)
 - [Project Demo](#project-demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [Technology Stack](#technology-stack)
+- [Key Features](#key-features)
+- [Project Structure](#project-structure)
+- [API Endpoints](#api-endpoints)
 
 ---
 
@@ -79,20 +87,25 @@ Build `document_verification_system` from the source and install dependencies:
    ```bash
    python run_pipeline.py --input sample_dataset_placeholder --output results.json
 
+---
+
 ## Technical System Overview
 
 The system follows a modular architecture with multiple stages of document processing and validation.
 
 <img width="1044" height="930" alt="visual selection" src="https://github.com/user-attachments/assets/8f008053-7142-4dfe-9fcd-d43e6c29a4ce" />
 
-## Technology Stack
+---
 
+## Technology Stack
 
 **Backend:** FastAPI, Python 3.10+, Uvicorn  
 **OCR Engines:** Mistral  
 **LLM Integration:** openai/gpt-oss-20b (for structured JSON)  
 **Data Processing:** Pandas, Regex, NumPy  
 **Testing:** Pytest  
+
+---
 
 ## Key Features
 
@@ -104,9 +117,9 @@ The system follows a modular architecture with multiple stages of document proce
 - JSON and text-based structured outputs
 - Logging and performance metrics
 
-## Project Structure
+---
 
-which codes you will need ot fix this
+## Project Structure
 
 doc-verification_system/
 ├─ README.md
@@ -150,7 +163,9 @@ doc-verification_system/
 └─ sample_dataset_placeholder/
    └─ README.md
 
-### 6. 🔗 API Endpoints
+---
+
+## API Endpoints
 
 | Endpoint       | Method | Request                                              | Description                                                                                         | Response |
 |----------------|--------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------|
