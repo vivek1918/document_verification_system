@@ -30,12 +30,6 @@ _Built with the tools and technologies:_
 
 The document verification system is a powerful developer tool that automates and enhances document validation workflows using advanced OCR, data extraction, and cross-document verification techniques. Designed for scalability and accuracy, it integrates multiple OCR engines, GPU acceleration, and optional large language model (LLM) support to handle diverse document types efficiently.
 
-### 🎥 Project Demo
-
-Watch the demo video on [Loom](https://www.loom.com/share/your-video-id)
-
-Explore how the Document Verification System performs OCR, entity extraction, and structured validation in real time.
-
 ### Why document_verification_system?
 
 This project aims to simplify complex identity and document verification processes. The core features include:
@@ -46,6 +40,14 @@ This project aims to simplify complex identity and document verification process
 - 🔄 **Cross-Document Validation:** Implements rules to verify data integrity across multiple documents.  
 - ⚙️ **API Access & Scalability:** Provides accessible APIs for seamless integration into enterprise systems.  
 - 🚀 **Performance Evaluation:** Includes tools for monitoring accuracy and system performance.  
+
+---
+
+## 🎥 Project Demo
+
+Watch the demo video on [Loom](https://www.loom.com/share/your-video-id)
+
+Explore how the Document Verification System performs OCR, entity extraction, and structured validation in real time.
 
 ---
 
