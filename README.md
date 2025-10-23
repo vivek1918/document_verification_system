@@ -62,3 +62,12 @@ Build `document_verification_system` from the source and install dependencies:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/vivekvasani99/document_verification_system
+2. **Navigate to the project directory:**
+   ```bash
+   cd document_verification_system
+3. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+4. Run the project with:
+   ```bash
+   python run_pipeline.py --input sample_dataset_placeholder --output results.json
