@@ -99,11 +99,11 @@ The system follows a modular architecture with multiple stages of document proce
 
 ## Technology Stack
 
-**Backend:** FastAPI, Python 3.10+, Uvicorn  
-**OCR Engines:** Mistral  
-**LLM Integration:** openai/gpt-oss-20b (for structured JSON)  
-**Data Processing:** Pandas, Regex, NumPy  
-**Testing:** Pytest  
+  **Backend:** FastAPI, Python 3.10+, Uvicorn  
+  **OCR Engines:** Mistral  
+  **LLM Integration:** openai/gpt-oss-20b (for structured JSON)  
+  **Data Processing:** Pandas, Regex, NumPy  
+  **Testing:** Pytest  
 
 ---
 
