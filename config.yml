@@ -1,0 +1,30 @@
+ocr:
+  enable_tesseract: false
+  enable_easyocr: false
+  easyocr_device: "cuda"  # will auto-fallback to cpu if cuda not available
+  mistral_api_key: "${MISTRAL_API_KEY}"  # TODO: Add your key
+  enable_mistral_ocr: true
+
+llm:
+  provider: "groq"  # "none", "gemini", or "huggingface"
+  groq_api_key: "${GROQ_API_KEY}"   # TODO: Add your Gemini API key here
+  hf_model: "microsoft/DialoGPT-medium"  # Example model, replace with your preferred model
+  groq_model: "openai/gpt-oss-20b"
+
+paths:
+  ocr_outputs_dir: "ocr_outputs"
+  metrics_dir: "metrics"
+  logs_dir: "logs"
+
+gpu:
+  use_gpu: true  # Will auto-detect and fallback to CPU
+
+verification:
+  required_rules:
+    - rule_1_name_match
+    - rule_2_dob_match
+    - rule_3_address_match
+    - rule_4_phone_match
+    - rule_5_father_name_match
+    - rule_6_pan_format
+    - rule_7_aadhaar_format
