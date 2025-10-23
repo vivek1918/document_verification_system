@@ -85,10 +85,83 @@ The system follows a modular architecture with multiple stages of document proce
 
 <img width="1044" height="930" alt="visual selection" src="https://github.com/user-attachments/assets/8f008053-7142-4dfe-9fcd-d43e6c29a4ce" />
 
-```mermaid
-flowchart LR
-  A[Input Document Images] --> B[OCR Engines<br/>Mistral · Tesseract · EasyOCR]
-  B --> C[Text Normalization & Cleaning]
-  C --> D[Entity Extraction<br/>Name, DOB, PAN, etc.]
-  D --> E[Cross-Document Validation]
-  E --> F[JSON Output + Logs]
+## Technology Stack
+
+
+**Backend:** FastAPI, Python 3.10+, Uvicorn  
+**OCR Engines:** Mistral  
+**LLM Integration:** openai/gpt-oss-20b (for structured JSON)  
+**Data Processing:** Pandas, Regex, NumPy  
+**Testing:** Pytest  
+
+## Key Features
+
+- Multi-engine OCR pipeline (Tesseract + EasyOCR + Mistral)
+- Intelligent text normalization and error correction
+- Entity extraction for ID, financial, and employment documents
+- Cross-document consistency checks
+- REST API for easy integration
+- JSON and text-based structured outputs
+- Logging and performance metrics
+
+## Project Structure
+
+which codes you will need ot fix this
+
+doc-verification_system/
+├─ README.md
+├─ requirements.txt
+├─ config.yml
+├─ run_pipeline.py
+├─ api/
+│  └─ main.py
+├─ verifier/
+│  ├─ __init__.py
+│  ├─ ocr/
+│  │  ├─ __init__.py
+│  │  ├─ mistral_ocr.py
+│  │  ├─ mistral_ocr_enhanced.py
+│  │  └─ preproc.py
+│  ├─ normalize/
+│  │  ├─ __init__.py
+│  │  ├─ cleaners.py
+│  │  └─ normalizers.py
+│  ├─ extract/
+│  │  ├─ __init__.py
+│  │  ├─ regex_extractors.py
+│  │  └─ groq_extractors.py
+│  ├─ verify/
+│  │  ├─ __init__.py
+│  │  └─ rules.py
+│  ├─ io/
+│  │  ├─ __init__.py
+│  │  └─ storage.py
+│  └─ utils/
+│     ├─ __init__.py
+│     └─ logger.py
+├─ tests/
+│  ├─ test_normalizers.py
+│  ├─ test_extractors.py
+│  └─ test_verification_rules.py
+├─ sample_output.json
+├─ metrics/
+│  ├─ ocr/
+│  └─ evaluation/
+└─ sample_dataset_placeholder/
+   └─ README.md
+
+### 6. 🔗 API Endpoints
+
+| Endpoint       | Method | Request                                              | Description                                                                                         | Response |
+|----------------|--------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------|
+| `/verify`      | POST   | `file` (ZIP upload), `use_llm` (optional, bool)     | Upload a ZIP containing folders for each `person_id` with expected document images. Runs the document verification pipeline. | JSON list of `VerificationResponse` objects per person:<br>- `person_id`<br>- `extracted_data`<br>- `verification_results`<br>- `overall_status`<br>- `logs`<br>- `ocr_results`<br>- `ocr_engines_used` |
+| `/health`      | GET    | None                                                 | Checks system health and availability of GPU, Mistral API key, and local OCR libraries (Tesseract/EasyOCR are removed). | `HealthResponse` object:<br>- `status` (`"healthy"`)<br>- `tesseract_available` (False)<br>- `easyocr_available` (False)<br>- `gpu_available` (True/False)<br>- `mistral_api_key_present` (True/False) |
+| `/metrics`     | GET    | None                                                 | Returns current OCR/system metrics if available (`metrics/ocr/comparison_report.json`).              | JSON metrics or message if no metrics available. |
+
+**Notes:**
+
+- Only ZIP uploads are supported for `/verify`. Each folder inside the ZIP should correspond to a `person_id` and contain the expected documents (e.g., government ID, bank statement, employment letter).
+- Large file uploads are restricted by `MAX_UPLOAD_SIZE_BYTES` (default 50 MB).  
+- `/health` always returns `tesseract_available = False` and `easyocr_available = False` since these libraries were removed.  
+- Use `use_llm=True` if you want the pipeline to leverage LLM-based extraction (requires configured Groq/OpenAI API key).  
+
