@@ -81,8 +81,6 @@ Build `document_verification_system` from the source and install dependencies:
 
 ## Technical System Overview
 
----
-
 The system follows a modular architecture with multiple stages of document processing and validation.
 
 <img width="1044" height="930" alt="_- visual selection (4)" src="https://github.com/user-attachments/assets/a84e96e4-740e-4a0a-bb22-e54f3a8a3d73" />
