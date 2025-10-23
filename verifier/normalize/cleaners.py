@@ -3,7 +3,7 @@ Text cleaning and confusion correction utilities.
 """
 
 import re
-from typing import Optional
+from typing import Optional, Dict, Any
 from verifier.utils.logger import get_logger
 
 logger = get_logger(__name__)
@@ -22,7 +22,63 @@ REVERSE_CONFUSION_MAP = {
     '0': 'O', '5': 'S', '1': 'I', '8': 'B', '2': 'Z'
 }
 
-def apply_confusion_corrections(text: str, field_hint: Optional[str] = None) -> str:
+
+def apply_confusion_corrections(extracted_data: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    Apply character confusion corrections to extracted entity dictionary.
+    
+    Args:
+        extracted_data: Dictionary of extracted entities with structure:
+                       {field_name: {"value": ..., "raw_context": ..., ...}}
+        
+    Returns:
+        Dictionary with corrected values
+    """
+    if not isinstance(extracted_data, dict):
+        logger.warning(f"apply_confusion_corrections received non-dict: {type(extracted_data)}")
+        return extracted_data
+    
+    corrected_data = {}
+    
+    # Field-specific correction hints
+    field_hints = {
+        'aadhaar_number': 'numeric',
+        'pan_number': 'alphanumeric',
+        'phone_number': 'numeric',
+        'account_number': 'numeric',
+        'employee_id': 'alphanumeric',
+        'full_name': 'alpha',
+        'father_name': 'alpha',
+        'date_of_birth': 'numeric',
+    }
+    
+    for field_name, field_data in extracted_data.items():
+        if not isinstance(field_data, dict):
+            corrected_data[field_name] = field_data
+            continue
+        
+        # Copy the field data
+        corrected_field = field_data.copy()
+        
+        # Apply corrections to the value if it's a string
+        if 'value' in field_data and field_data['value']:
+            value = field_data['value']
+            
+            # Only correct string values
+            if isinstance(value, str):
+                hint = field_hints.get(field_name, None)
+                corrected_value = correct_text(value, hint)
+                
+                if corrected_value != value:
+                    logger.debug(f"Corrected {field_name}: '{value}' -> '{corrected_value}'")
+                    corrected_field['value'] = corrected_value
+        
+        corrected_data[field_name] = corrected_field
+    
+    return corrected_data
+
+
+def correct_text(text: str, field_hint: Optional[str] = None) -> str:
     """
     Apply character confusion corrections based on field context.
     
@@ -33,7 +89,7 @@ def apply_confusion_corrections(text: str, field_hint: Optional[str] = None) -> 
     Returns:
         Corrected text
     """
-    if not text:
+    if not text or not isinstance(text, str):
         return text
     
     original_text = text
@@ -58,10 +114,8 @@ def apply_confusion_corrections(text: str, field_hint: Optional[str] = None) -> 
         for wrong, correct in corrections.items():
             text = text.replace(wrong, correct)
     
-    if text != original_text:
-        logger.debug(f"Applied confusion correction: '{original_text}' -> '{text}'")
-    
     return text
+
 
 def clean_whitespace(text: str) -> str:
     """Clean and normalize whitespace."""
@@ -71,6 +125,7 @@ def clean_whitespace(text: str) -> str:
     # Replace multiple spaces with single space
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
+
 
 def remove_special_characters(text: str, keep_chars: str = "") -> str:
     """

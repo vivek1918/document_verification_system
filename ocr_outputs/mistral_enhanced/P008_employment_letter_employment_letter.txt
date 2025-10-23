@@ -2,16 +2,15 @@
 Filename: P008_employment_letter_employment_letter
 image_path: sample_dataset_placeholder\P008\P008_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 10133.265018463135
+processing_time_ms: 4778.365612030029
 lines_extracted: 23
-word_count: 143
+word_count: 142
 
 ==================================================
 
-Certainly! Here is the extracted text from the employment letter:
+Sure, here is the exact text from the employment letter:
 
 ---
-TECH
 
 TechCorp Solutions Pvt. Ltd.
 
@@ -32,8 +31,8 @@ This is to certify that Ronith Patla is a confirmed employee of TechCorp Solutio
 | Father's Name:      | Mugdha Kohli                     |
 | Date of Birth:      | April 29, 1997                   |
 | Employee ID:        | EMP3200                          |
-| Designation:        | Data Scientist                   |
-| PAN Number:         | WPRTC8951Z                       |
+| Designation:        | Data Scientist                  |
+| PAN Number:         | WPRTC08951Z                      |
 | Email:              | ronith.patla@yahoo.com           |
 | Residential Address | House No. H No 595, Mitali Zila, Alappuzha - 482366, Karnataka |
 
@@ -41,6 +40,8 @@ This letter is issued at the request of the employee for official purposes.
 
 For TechCorp Solutions Pvt. Ltd.
 
+_____________________________
+
 Authorized Signatory
 
-COMPANY SEAL
+---

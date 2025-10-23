@@ -1,0 +1,29 @@
+=== MISTRAL_ENHANCED OCR OUTPUT ===
+Filename: P006_government_id_government_id
+image_path: sample_dataset_placeholder\P006\P006_government_id.png
+doc_type: government_id
+processing_time_ms: 3266.561508178711
+lines_extracted: 15
+word_count: 59
+
+==================================================
+
+Here is the exact text from the government ID document:
+
+---
+GOI (Top-center in oval)
+
+AADHAAR (Centered below the GOI oval)
+
+Name:      Tanay Toor
+Father's Name:   Alka Toor
+Date of Birth:   31/07/1973
+Aadhaar No:      5348 7401 6400 (highlighted in yellow)
+Address:
+513, Mane Path, Bahraich, Uttarakhanda - 980841
+Phone:
++91 2411824493
+---
+
+Unique Identification Authority of India
+www.uidai.gov.in (Bottom-center)

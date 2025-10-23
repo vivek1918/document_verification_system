@@ -1,0 +1,33 @@
+=== MISTRAL_ENHANCED OCR OUTPUT ===
+Filename: P001_government_id_government_id
+image_path: sample_dataset_placeholder\P001\P001_government_id.png
+doc_type: government_id
+processing_time_ms: 2330.0366401672363
+lines_extracted: 15
+word_count: 59
+
+==================================================
+
+Here is the exact text as it appears in the government ID document:
+
+---
+GOI *(in oval at the top center)*
+
+UIDAI *(logo)*
+
+AADHAAR
+
+Name:            ISAAC BAKSHI
+Father's Name:   Anvi Bakshi
+Date of Birth:   07/09/1998
+Aadhaar No:      4235 1161 5594
+
+Address:
+321, Chahal Circle, Patna, Andhra Pradesh - 338908
+
+Phone:           +91 3863794026
+
+Unique Identification Authority of India
+www.uidai.gov.in
+
+---

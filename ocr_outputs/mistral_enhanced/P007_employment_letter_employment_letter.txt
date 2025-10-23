@@ -2,9 +2,9 @@
 Filename: P007_employment_letter_employment_letter
 image_path: sample_dataset_placeholder\P007\P007_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 4214.467763900757
-lines_extracted: 22
-word_count: 138
+processing_time_ms: 5229.836463928223
+lines_extracted: 29
+word_count: 122
 
 ==================================================
 
@@ -12,33 +12,44 @@ Sure, here is the exact text from the employment letter:
 
 ---
 
+```
+TECH
+
 TechCorp Solutions Pvt. Ltd.
 
-Tower A Cyber Park Bangalore - 560001
-
+Tower A Cyber Park, Bangalore - 560001
 Email: hr@techcorp.com | Phone: +91 80 12345678
 
----
+-----------------------------------------
 
 EMPLOYMENT CERTIFICATE
 
 Date: August 13, 2025
 
-This is to certify that Janya Baral is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
+This is to certify that Jaya Baral is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
-| Employee Name:      | Janya Baral         |
-|---------------------|---------------------|
-| Father's Name:      | Ishita Baral        |
-| Date of Birth:      | April 18, 1977      |
-| Employee ID:        | EMP1965             |
-| Designation:        | Software Engineer   |
-| PAN Number:         | HQLLQ8850C          |
-| Email:              | janya.baral@yahoo.com|
-| Residential Address| House No. 315, Ray Circle, Patiala - 260256, West Bengal |
+-----------------------------------------
+
+Employee Name: Jaya Baral
+Father's Name: Ishita Baral
+Date of Birth: April 18, 1977
+Employee ID: EMP1965
+Designation: Software Engineer
+PAN Number: HQLLO6850C
+Email: janya.baral@yahoo.com
+Residential Address
+House No. 315, Ray Circle, Patiala - 260256, West Bengal
+
+-----------------------------------------
 
 This letter is issued at the request of the employee for official purposes.
 
+-----------------------------------------
+
 For TechCorp Solutions Pvt. Ltd.
 
-______________________
+COMPANY
+SEAL
+
 Authorized Signatory
+```

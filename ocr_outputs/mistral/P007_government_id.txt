@@ -1,0 +1,26 @@
+=== MISTRAL OCR OUTPUT ===
+Filename: P007_government_id
+image_path: sample_dataset_placeholder\P007\P007_government_id.png
+processing_time_ms: 3384.3092918395996
+lines_extracted: 13
+word_count: 49
+
+==================================================
+
+ Eztその一方で、ここにはこのテキストが含まれています：
+
+```
+GOI (at the top center in an oval shape)
+
+AADHAAR
+
+Name: Jaya Baral
+Father’s Name: Ishita Baral
+Date of Birth: 18/04/1977
+Aadhaar No: 4330 3654 1458 (highlighted in yellow)
+Address: 315, Ray Circle, Patiala, West Bengal - 260256
+Phone: +91.3421607337
+
+Unique Identification Authority of India
+www.uidai.gov.in
+```

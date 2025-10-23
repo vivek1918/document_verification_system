@@ -2,45 +2,40 @@
 Filename: P006_bank_statement_bank_statement
 image_path: sample_dataset_placeholder\P006\P006_bank_statement.png
 doc_type: bank_statement
-processing_time_ms: 4128.190994262695
-lines_extracted: 27
-word_count: 137
+processing_time_ms: 5934.091806411743
+lines_extracted: 22
+word_count: 147
 
 ==================================================
 
 Sure, here is the exact text from the bank statement:
 
 ---
-```
-          NIB
+**National India Bank**
 
-          NATIONAL INDIA BANK
-          Banking with Trust
+Banking with Trust
 
-          BANK STATEMENT
+**BANK STATEMENT**
 
-          September 2025
+**September 2025**
 
-Account Holder:    Tanay Toor
-Account Number:    8059826204
-Date of Birth:     31-07-1973
-Phone Number:      +91-2411824493
-Address:          513 Mane Path, Bahraich, Uttarakhanda, PIN: 980841
+| Account Holder: | Tanay Toor |
+|-----------------|-----------|
+| Account Number: | 8059826204 |
+| Date of Birth:  | 31-07-1973 |
+| Phone Number:   | +91-2411824493 |
+| Address:        | 513 Mane Path, Bahraich, Uttarakhando, PIN: 980841 |
 
-Statement Date:    12-09-2025
+**Statement Date:** 12-09-2025
 
--------------------------------------------------------------------------------------------------------
-| Date       | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
--------------------------------------------------------------------------------------------------------
-| 01-09-2025 | Opening Balance   | -         | -          | 50,000.00   |
-| 05-09-2025 | Salary Credit      | -         | 85,000.00  | 1,35,000.00 |
-| 10-09-2025 | Utility Payment    | 2,500.00  | -          | 1,32,500.00 |
-| 15-09-2025 | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00 |
--------------------------------------------------------------------------------------------------------
+| Date        | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
+|-------------|-------------------|-----------|------------|-------------|
+| 01-09-2025  | Opening Balance   | -         | -          | 50,000.00    |
+| 05-09-2025  | Salary Credit     | -         | 85,000.00  | 1,35,000.00  |
+| 10-09-2025  | Utility Payment   | 2,500.00  | -          | 1,32,500.00  |
+| 15-09-2025  | ATM Withdrawal    | 5,000.00  | -          | 1,27,500.00  |
 
-This is a computer-generated statement and does not require signature
+This is a computer-generated statement and does not require signature.
 
 National India Bank | Mumbai Main Branch
 Email: care@nationalindiabank.com | Phone: 1800-XXX-XXXX
-```
----

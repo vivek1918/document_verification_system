@@ -16,3 +16,5 @@ pytest
 python-dateutil
 google-cloud-vision
 groq
+dotenv
+mistralai

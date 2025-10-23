@@ -1,9 +1,9 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P010_bank_statement
 image_path: sample_dataset_placeholder\P010\P010_bank_statement.png
-processing_time_ms: 4533.695697784424
-lines_extracted: 27
-word_count: 159
+processing_time_ms: 6137.474060058594
+lines_extracted: 26
+word_count: 158
 
 ==================================================
 
@@ -22,9 +22,9 @@ Here is the exact text from the document image:
 ### September 2025
 
 | Account Holder: | Thomas Sura |
-|-----------------|------------|
-| Account Number: | 9232719374 |
-| Date of Birth:  | 16-09-2000 |
+|-----------------|-------------|
+| Account Number: | 9232719374  |
+| Date of Birth:  | 16-09-2000  |
 | Phone Number:   | +91-9901627204 |
 | Address:        | H.No.67 Ramachandran Nagar, Machilipatnam, Telangana, PIN: 729806 |
 
@@ -45,5 +45,3 @@ This is a computer-generated statement and does not require signature
 
 National India Bank | Mumbai Main Branch
 Email: care@nationalindiabank.com | Phone: 1800-XXX-XXXX
-
----

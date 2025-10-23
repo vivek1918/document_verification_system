@@ -1,21 +1,19 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P006_employment_letter
 image_path: sample_dataset_placeholder\P006\P006_employment_letter.png
-processing_time_ms: 5871.570587158203
-lines_extracted: 24
-word_count: 139
+processing_time_ms: 3449.578285217285
+lines_extracted: 25
+word_count: 132
 
 ==================================================
 
-Here is the extracted text from the document image:
+![Logo]
 
----
-
-![TECH](logo)
+TECH
 
 TechCorp Solutions Pvt. Ltd.
 
-Tower A Cyber Park Bangalore - 560001
+Tower A Cyber Park, Bangalore - 560001
 
 Email: hr@techcorp.com | Phone: +91-80-12345678
 
@@ -30,7 +28,7 @@ This is to certify that Tanay Toor is a confirmed employee of TechCorp Solutions
 | Employee Name:      | Tanay Toor                     |
 |---------------------|-------------------------------|
 | Father's Name:      | Alka Toor                      |
-| Date of Birth:      | December 27, 1973             |
+| Date of Birth:      | December 27, 1973              |
 | Employee ID:        | EMP0112                       |
 | Designation:        | Project Manager               |
 | PAN Number:         | VCJTB5242J                    |
@@ -41,7 +39,10 @@ This letter is issued at the request of the employee for official purposes.
 
 For TechCorp Solutions Pvt. Ltd.
 
-**[COMPANY SEAL]**
-
-______________________
+_________________________
 Authorized Signatory
+
+![Company Seal]
+
+COMPANY
+SEAL

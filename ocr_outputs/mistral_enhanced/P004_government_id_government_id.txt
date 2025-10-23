@@ -2,29 +2,28 @@
 Filename: P004_government_id_government_id
 image_path: sample_dataset_placeholder\P004\P004_government_id.png
 doc_type: government_id
-processing_time_ms: 2578.566789627075
+processing_time_ms: 2043.8902378082275
 lines_extracted: 14
-word_count: 54
+word_count: 53
 
 ==================================================
 
-Here is the exact text as it appears on the ID document:
+Here is the exact text as it appears in the government ID document:
 
 ---
-GOI (Government of India logo)
+GOI (Emblem/Symbol)
 
 AADHAAR
 
-Name:    VICTOR KANNAN
-Father’s Name:    Abhimanyu Kannan
-Date of Birth:    19/06/1982
-Aadhaar No:    7010 6513 3387
+Name:       VICTOR KANNAN
+Father’s Name:  Abhimanyu Kannan
+Date of Birth:   19/06/1982
+Aadhaar No:      7010 6513 3387
 
 Address:
-H.No 031, Narayanan Nagar, Kottayam, Haryana - 738299
-Phone:   +91 7376311656
+H No 031, Narayanan Nagar, Kottayam, Haryana - 738299
+Phone:      +91 7376311656
 
 Unique Identification Authority of India
 www.uidai.gov.in
-
 ---

@@ -1,33 +1,27 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P002_government_id
 image_path: sample_dataset_placeholder\P002\P002_government_id.png
-processing_time_ms: 2776.547908782959
+processing_time_ms: 3177.680492401123
 lines_extracted: 13
-word_count: 43
+word_count: 40
 
 ==================================================
 
- Ezt-dess meg a szöveges tartalmat a dokumentumból:
+その一方で、このAadhaarカードのテキストは以下の通りです：
 
----
-**GOI**
+Government of India (GOI)
+(LOGO)
 
-**AADHAAR**
+AADHAAR
 
-Name:    **NICHOLAS PRABHAKAR**
+PHOTO
 
-Father’s Name:    **Isha Prahakar**
+Name:    NICHOLAS PRABHAKAR
+Father's Name:   Isha Prahakar
+Date of Birth:   10/05/2000
+Aadhaar No:      7242 3884 9696
+Address:         419, Walla Street, Ujjain, Manipur - 483503
+Phone:           +910564139537
 
-Date of Birth:    **10/05/2000**
-
-Aadhaar No:    **7242 3884 9696**
-
-Address:    **419, Walla Street, Ujjain, Manipur - 483503**
-
-Phone:    **+910564139537**
-
-**Unique Identification Authority of India**
-
-[www.uidai.gov.in](http://www.uidai.gov.in)
-
----
+Unique Identification Authority of India
+www.uidai.gov.in

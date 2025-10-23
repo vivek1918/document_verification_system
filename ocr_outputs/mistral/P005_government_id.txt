@@ -1,30 +1,39 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P005_government_id
 image_path: sample_dataset_placeholder\P005\P005_government_id.png
-processing_time_ms: 2823.6825466156006
-lines_extracted: 12
-word_count: 37
+processing_time_ms: 1980.5994033813477
+lines_extracted: 16
+word_count: 58
 
 ==================================================
 
---------------------------------------------------------------------------
+Sure, here is the exact text as it appears in the document image:
+
+---
 
 GOI
 
+[Emblem of India]
+
 AADHAAR
 
-Name:          Ladli Agate
+Name: Ladli Agate
 
-Father’s Name: Madhavi Aggate
+Father's Name: Madhavi Aggate
 
 Date of Birth: 13/12/1971
 
-Aadhaar No:    9136 1939 9091
+Aadhaar No: 9136 1939 9091
 
-Address:       H.No 74, Sur Marg, Jhansi, Jhankhand - 098050
+Address: H.No 74 Sur Marg, Jhansi, Jhankhand - 098050
 
-Phone:         +910978820812
+Phone: +910978820812
 
---------------------------------------------------------------------------
+[Photo placeholder]
+
+[Barcode/QR code placeholder]
+
 Unique Identification Authority of India
-[www.uidai.gov.in]
+www.uidai.gov.in
+
+---

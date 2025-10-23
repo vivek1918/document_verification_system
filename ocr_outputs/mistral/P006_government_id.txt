@@ -1,37 +1,31 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P006_government_id
 image_path: sample_dataset_placeholder\P006\P006_government_id.png
-processing_time_ms: 3985.138177871704
-lines_extracted: 19
-word_count: 47
+processing_time_ms: 2778.1269550323486
+lines_extracted: 14
+word_count: 41
 
 ==================================================
 
-その一方で、ここには次の通りのテキストが含まれています：
+その一方で、このAadhaarカードのテキストは以下の通りです：
 
 ---
 
-Government of India
-GOI
-
----
-(Emblem of India)
+Government of India (LOGO)
 
 AADHAAR
 
-Name:        Tanay Toor
-Father’s Name:  Alka Toor
-Date of Birth:  31/07/1973
-Aadhaar No:  5348 7401 6400
+[PHOTO]
+
+Name:      Tanay Toor
+Father's Name:   Alka Toor
+Date of Birth:   31/07/1973
+Aadhaar No:      5348 7401 6400
 
 Address:
-      513, Mane Path, Bahraich, Uttarakhando - 980841
-Phone:
-      +91 2411824493
+513, Mane Path, Bahraich, Uttarakhando - 980841
 
-(Photo placeholder)
+Phone:     +91 2411824493
 
 Unique Identification Authority of India
 www.uidai.gov.in
-
----

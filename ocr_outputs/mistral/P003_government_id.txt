@@ -1,41 +1,31 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P003_government_id
 image_path: sample_dataset_placeholder\P003\P003_government_id.png
-processing_time_ms: 2853.6174297332764
-lines_extracted: 19
-word_count: 51
+processing_time_ms: 14383.593797683716
+lines_extracted: 14
+word_count: 45
 
 ==================================================
 
- Ennek Međutimén:
+その一方で、このAadhaarカードのテキストは以下の通りです：
 
 ---
 
-[GOI Logo]
 GOI
+(Emblem of India)
 
 AADHAAR
 
----
-Photo (Placeholder)
-
----
-
-Name:       Amara Oak
-
-Father’s Name:   Isaac Oak
-
+Name:      Amara Oak
+Father's Name:   Isaac Oak
 Date of Birth:   21/11/1979
 
-Aadhaar No:      5430 3911 7182 (highlighted in yellow)
+Aadhaar No:  5430 3911 7182 (highlighted in yellow)
 
 Address:
 H No 62, Aggarwal Chawk, Orai, Tripura - 814893
 
 Phone:     +91 2528809570
 
----
 Unique Identification Authority of India
 www.uidai.gov.in
-
----
