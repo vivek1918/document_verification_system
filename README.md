@@ -43,7 +43,7 @@ This project aims to simplify complex identity and document verification process
 
 ---
 
-## 🎥 Project Demo
+## Project Demo
 
 Watch the demo video on [Loom](https://www.loom.com/share/your-video-id)
 
@@ -78,3 +78,17 @@ Build `document_verification_system` from the source and install dependencies:
 4. Run the project with:
    ```bash
    python run_pipeline.py --input sample_dataset_placeholder --output results.json
+
+## Technical System Overview
+
+<img width="1044" height="972" alt="_- visual selection (4)" src="https://github.com/user-attachments/assets/bc90ff9c-3b12-40c3-ad06-1071de538849" />
+
+The system follows a modular architecture with multiple stages of document processing and validation.
+
+```mermaid
+flowchart LR
+A[Input Document Images] --> B[OCR Engines (Tesseract / Mistral / EasyOCR)]
+B --> C[Text Normalization & Cleaning]
+C --> D[Entity Extraction (Name, DOB, PAN, etc.)]
+D --> E[Cross-Document Validation]
+E --> F[JSON Output + Logs]
