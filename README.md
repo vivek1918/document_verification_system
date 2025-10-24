@@ -102,7 +102,7 @@ The system follows a modular architecture with multiple stages of document proce
 
 ---
 
-## Frontend (Streamlit)
+## Frontend
 The project includes a user-friendly **Streamlit** interface to upload and verify documents seamlessly.  
 Users can:
 - Upload images or zip files.
