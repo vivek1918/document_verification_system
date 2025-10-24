@@ -27,12 +27,13 @@ _Built with the tools and technologies:_
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [Technical System Overview](#technical-system-overview)
+- [Frontend](#frontend)
+- [App Preview](#app-preview)
 - [Technology Stack](#technology-stack)
 - [Key Features](#key-features)
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
-- [Frontend](#frontend)
-- [App Preview](#app-preview)
 
 ---
 
