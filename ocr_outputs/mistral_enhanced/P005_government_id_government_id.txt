@@ -1,29 +1,32 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P005_government_id_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P005\P005_government_id.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P005\P005_government_id.png
 doc_type: government_id
-processing_time_ms: 1853.957176208496
-lines_extracted: 14
-word_count: 48
+processing_time_ms: 2380.0175189971924
+lines_extracted: 16
+word_count: 66
 
 ==================================================
 
 Here is the exact text from the government ID document:
 
 ---
-GOI
+GOI *(inside oval at the top center)*
+
+IIII
 
 AADHAAR
 
+*(Photo placeholder on the left)*
+
 Name:      Ladli Agate
-Father's Name:   Madhavi Aggate
+Father’s Name:   Madhavi Aggate
 Date of Birth:   13/12/1971
-Aadhaar No:      9136 1939 9091
+Aadhaar No:      9136 1939 9091 *(highlighted in yellow)*
+Address:   H.No 74 Sur Marg, Jhansi, Jhankhand - 098050
+Phone:     +91 0978820812
 
-Address:
-H.No 74 Sur Marg, Jhansi, Jharkhand - 098050
-Phone: +91 0978820812
-
+*(Bottom left corner)*
 Unique Identification Authority of India
 www.uidai.gov.in
 

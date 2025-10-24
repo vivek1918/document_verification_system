@@ -1,9 +1,9 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P008_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P008\P008_employment_letter.png
-processing_time_ms: 6648.768424987793
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P008\P008_employment_letter.png
+processing_time_ms: 3558.818578720093
 lines_extracted: 27
-word_count: 139
+word_count: 138
 
 ==================================================
 
@@ -19,7 +19,7 @@ Email: hr@techcorp.com | Phone: +91 80 12345678
 
 ---
 
-# EMPLOYMENT CERTIFICATE
+**EMPLOYMENT CERTIFICATE**
 
 ---
 
@@ -27,15 +27,15 @@ Date: August 13, 2025
 
 This is to certify that Ronith Patla is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
-| Employee Name:      | Ronith Patla                     |
-|---------------------|----------------------------------|
-| Father's Name:      | Mugdha Kohli                     |
-| Date of Birth:      | April 29, 1997                   |
-| Employee ID:        | EMP3200                          |
-| Designation:        | Data Scientist                   |
-| PAN Number:         | WPRTC08951Z                      |
-| Email:              | ronith.patla@yahoo.com           |
-| Residential Address | House No. H No 595, Mitali Zila, Alappuzha - 482366, Karnataka |
+| Employee Name:       | Ronith Patla                     |
+|----------------------|-----------------------------------|
+| Father’s Name:       | Mugdha Kohli                      |
+| Date of Birth:       | April 29, 1997                    |
+| Employee ID:         | EMP3200                           |
+| Designation:         | Data Scientist                    |
+| PAN Number:          | WPRTC08951Z                       |
+| Email:               | ronith.patla@yahoo.com            |
+| Residential Address: | House No. H No 595, Mitali Zila, Alappuzha - 482366, Karnataka |
 
 ---
 

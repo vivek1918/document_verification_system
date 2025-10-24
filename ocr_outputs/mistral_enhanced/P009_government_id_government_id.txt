@@ -1,31 +1,29 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P009_government_id_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P009\P009_government_id.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P009\P009_government_id.png
 doc_type: government_id
-processing_time_ms: 1685.9056949615479
+processing_time_ms: 2723.3598232269287
 lines_extracted: 15
-word_count: 47
+word_count: 53
 
 ==================================================
 
-Here is the exact text from the government ID document:
+Here is the exact text as it appears in the government ID document:
 
 ---
-GOI
+GOI (Top-center in oval)
 
-IIII
-
+IINI
 AADHAAR
 
-Name:      Manbir Ahluwalia
-Father's Name:   Hredhaan Ahluwalia
-Date of Birth:   08/01/1987
-Aadhaar No:      3487 3471 4345
+Name:        Manbir Ahluwalia
+Father's Name:  Hredeaan Ahluwalia
+Date of Birth:  08/01/1987
+Aadhaar No:   3487 3471 4345
 
 Address:
 32, Shetty Circle, Proddatur, Haryana - 727889
-
-Phone:     +915798687277
+Phone:        +915798687277
 
 Unique Identification Authority of India
 www.uidai.gov.in

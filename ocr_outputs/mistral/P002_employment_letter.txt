@@ -1,23 +1,23 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P002_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P002\P002_employment_letter.png
-processing_time_ms: 4029.6194553375244
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P002\P002_employment_letter.png
+processing_time_ms: 3353.5215854644775
 lines_extracted: 24
-word_count: 143
+word_count: 139
 
 ==================================================
 
-Here is the exact text from the document image:
+Here is the extracted text from the document image:
 
 ---
 
-![Company Logo](TECH)
+![TECH](logo)
 
-**TechCorp Solutions Pvt. Ltd.**
+TechCorp Solutions Pvt. Ltd.
 
 Tower A Cyber Park, Bangalore - 560001
 
-Email: hr@techcorp.com | Phone: +91 80 12345678
+Email: hr@techcorp.com | Phone: +91-80-12345678
 
 ---
 
@@ -27,22 +27,22 @@ Date: August 13, 2025
 
 This is to certify that Nicholas Prabhakar is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
-| Employee Name:      | Nicholas Prabhakar   |
-|---------------------|----------------------|
-| Father's Name:      | Isha Prabhakar       |
-| Date of Birth:      | May 10, 2000         |
-| Employee ID:        | EMP2691              |
-| Designation:        | Data Scientist       |
-| PAN Number:         | FFWDH5328J           |
+| Employee Name:      | Nicholas Prabhakar       |
+|---------------------|--------------------------|
+| Father's Name:      | Isha Prabhakar           |
+| Date of Birth:      | May 10, 2000             |
+| Employee ID:        | EMP2691                  |
+| Designation:        | Data Scientist           |
+| PAN Number:         | FFWDH5328J               |
 | Email:              | nicholas.prabhakar@yahoo.com |
-| Residential Address | House No. 419, Walla Street, Ujjian - 483503, Manipur |
+| Residential Address | House No. 419, Walla Street, Ujjain - 483503, Manipur |
 
 This letter is issued at the request of the employee for official purposes.
 
 For TechCorp Solutions Pvt. Ltd.
 
-**Authorized Signatory**
+**[COMPANY SEAL]**
 
----
+_____________________
 
-![Company Seal](COMPANY SEAL)
+Authorized Signatory

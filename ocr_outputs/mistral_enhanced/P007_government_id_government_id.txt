@@ -1,29 +1,29 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P007_government_id_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P007\P007_government_id.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpmxjge6u8\P007\P007_government_id.png
 doc_type: government_id
-processing_time_ms: 2052.077054977417
+processing_time_ms: 1854.2368412017822
 lines_extracted: 14
-word_count: 49
+word_count: 51
 
 ==================================================
 
-Here is the exact text from the government ID document:
+Here is the exact text as it appears in the government ID document:
 
 ---
 GOI (Emblem/Symbol)
 
-IIII
-
 AADHAAR
 
-Name: Jaya Baral
+Name:      Jaya Baral
 Father’s Name: Ishita Baral
 Date of Birth: 18/04/1977
 Aadhaar No: 4330 3654 1458
 
-Address: 315, Ray Circle, Patiala, West Bengal - 260256
-Phone: +91.3421607337
+Address:
+315, Ray Circle, Patiala, West Bengal - 260256
+
+Phone:      +91.3421607337
 
 Unique Identification Authority of India
 www.uidai.gov.in

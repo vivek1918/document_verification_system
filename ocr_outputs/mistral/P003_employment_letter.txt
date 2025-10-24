@@ -1,52 +1,52 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P003_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P003\P003_employment_letter.png
-processing_time_ms: 7742.675304412842
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P003\P003_employment_letter.png
+processing_time_ms: 3207.6642513275146
 lines_extracted: 26
-word_count: 145
+word_count: 132
 
 ==================================================
 
-Here is the exact text from the document image:
+![Logo]
 
 ---
-
-![Tech Logo](logo)
 
 **TechCorp Solutions Pvt. Ltd.**
 
 Tower A Cyber Park, Bangalore - 560001
 
-Email: hr@techcorp.com | Phone: +91 80 12345678
+Email: hr@techcorp.com | Phone: +91-80-12345678
 
 ---
 
-**EMPLOYMENT CERTIFICATE**
+# EMPLOYMENT CERTIFICATE
+
+---
 
 Date: August 13, 2025
 
 This is to certify that **Amara Oak** is a confirmed employee of **TechCorp Solutions Pvt. Ltd.** The details are as follows:
 
-| Employee Name:      | Amara Oak                     |
-|---------------------|-------------------------------|
-| Father’s Name:      | Isaac Oak                    |
-| Date of Birth:      | November 21, 1979            |
-| Employee ID:        | EMP3465                      |
-| Designation:        | Project Manager              |
-| PAN Number:         | QHMBN2782I                   |
-| Email:              | amara.oak@gmail.com          |
-| Residential Address | House No. H.No. 62, Aggarwal Chowk, Orai - 814893, Tripura |
+| Employee Name:      | Amara Oak          |
+|---------------------|--------------------|
+| Father’s Name:      | Isaac Oak          |
+| Date of Birth:      | November 21, 1979  |
+| Employee ID:        | EMP3465            |
+| Designation:        | Project Manager    |
+| PAN Number:         | QHMBN2782I         |
+| Email:              | amara.oak@gmail.com|
+| Residential Address | House No. H.No. 62, Aggarwal Chowk, Orai-814893, Tripura |
+
+---
 
 This letter is issued at the request of the employee for official purposes.
 
+---
+
 For **TechCorp Solutions Pvt. Ltd.**
 
-_________________________
-
-Authorized Signatory
+**Authorized Signatory**
 
 ---
 
-![Company Seal](seal)
-
----
+![Company Seal]

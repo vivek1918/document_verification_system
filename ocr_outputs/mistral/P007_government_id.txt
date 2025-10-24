@@ -1,28 +1,32 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P007_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P007\P007_government_id.png
-processing_time_ms: 2310.730218887329
-lines_extracted: 14
-word_count: 54
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P007\P007_government_id.png
+processing_time_ms: 2741.1434650421143
+lines_extracted: 15
+word_count: 48
 
 ==================================================
 
- Ezt後述のテキストをそのまま抜粋します：
+その一方で、このAadhaarカードのテキストは以下の通りです：
 
-```
-GOI (top center in oval)
+---
+
+GOI
+(LOGO/Emblem of Government of India)
 
 AADHAAR
 
-PHOTO (inside a box on the left)
+PHOTO
 
-Name:   Jaya Baral
-Father’s Name: Ishita Baral
+Name:      Jaya Baral
+Father’s Name:   Ishita Baral
 Date of Birth:   18/04/1977
-Aadhaar No:    4330 3654 1458 (highlighted in yellow)
-Address:  315, Ray Circle, Patiala, West Bengal - 260256
-Phone:       +91.3421607337
+Aadhaar No:      4330 3654 1458 (highlighted in yellow)
+
+Address:   315, Ray Circle, Patiala, West Bengal - 260256
+Phone:     +91 3421607337
 
 Unique Identification Authority of India
-www.uidai.gov.in (bottom center)
-```
+www.uidai.gov.in
+
+---

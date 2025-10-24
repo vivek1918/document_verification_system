@@ -1,34 +1,35 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P001_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P001\P001_employment_letter.png
-processing_time_ms: 3490.638017654419
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P001\P001_employment_letter.png
+processing_time_ms: 4959.523439407349
 lines_extracted: 24
-word_count: 146
+word_count: 141
 
 ==================================================
 
-Here is the text extracted exactly as it appears in the document image:
+Here is the extracted text from the document image:
 
 ---
 
-![TECH Logo](TECH)
+![TECH Logo]
 
-**TechCorp Solutions Pvt. Ltd.**
+TechCorp Solutions Pvt. Ltd.
 
 Tower A Cyber Park, Bangalore - 560001
+
 Email: hr@techcorp.com | Phone: +91-80-12345678
 
 ---
 
-**EMPLOYMENT CERTIFICATE**
+EMPLOYMENT CERTIFICATE
 
 Date: August 13, 2025
 
-This is to certify that **Isaac Bakshi** is a confirmed employee of **TechCorp Solutions Pvt. Ltd.** The details are as follows:
+This is to certify that Isaac Bakshi is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
 | Employee Name:      | Isaac Bakshi                     |
 |---------------------|----------------------------------|
-| Father’s Name:      | Anvi Bakshi                      |
+| Father's Name:      | Anvi Bakshi                      |
 | Date of Birth:      | September 07, 1998               |
 | Employee ID:        | EMP5931                          |
 | Designation:        | Software Engineer                |
@@ -38,10 +39,9 @@ This is to certify that **Isaac Bakshi** is a confirmed employee of **TechCorp S
 
 This letter is issued at the request of the employee for official purposes.
 
-For **TechCorp Solutions Pvt. Ltd.**
+For TechCorp Solutions Pvt. Ltd.
 
-**Authorized Signatory**
+__________________________
+Authorized Signatory
 
-![Company Seal](COMPANY SEAL)
-
----
+![COMPANY SEAL]

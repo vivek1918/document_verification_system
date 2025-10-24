@@ -1,16 +1,18 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P006_employment_letter_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P006\P006_employment_letter.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P006\P006_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 4171.884775161743
+processing_time_ms: 3164.9365425109863
 lines_extracted: 24
-word_count: 140
+word_count: 141
 
 ==================================================
 
 Sure, here is the extracted text from the employment letter:
 
 ---
+
+**[Logo: TECH]**
 
 **TechCorp Solutions Pvt. Ltd.**
 
@@ -26,23 +28,21 @@ Date: August 13, 2025
 
 This is to certify that Tanay Toor is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
-| Employee Name:      | Tanay Toor          |
-|---------------------|---------------------|
-| Father's Name:      | Alka Toor           |
-| Date of Birth:      | December 27, 1973   |
-| Employee ID:        | EMP0112             |
-| Designation:        | Project Manager     |
-| PAN Number:         | VCJTB5242J          |
-| Email:              | tanay.toor@hotmail.com |
+| Employee Name:      | Tanay Toor                     |
+|---------------------|-------------------------------|
+| Father's Name:      | Alka Toor                      |
+| Date of Birth:      | December 27, 1973              |
+| Employee ID:        | EMP0112                        |
+| Designation:        | Project Manager               |
+| PAN Number:         | VCJTB5242J                     |
+| Email:              | tanay.toor@hotmail.com         |
 | Residential Address | House No 513, Mane Path, Bahraich - 980841, Uttarakhand |
 
 This letter is issued at the request of the employee for official purposes.
 
 For TechCorp Solutions Pvt. Ltd.
 
+**[Company Seal]**
+
 __________________________
 Authorized Signatory
-
----
-
-**COMPANY SEAL**

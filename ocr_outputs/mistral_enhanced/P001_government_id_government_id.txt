@@ -1,19 +1,19 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P001_government_id_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P001\P001_government_id.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P001\P001_government_id.png
 doc_type: government_id
-processing_time_ms: 3292.9818630218506
+processing_time_ms: 2414.531707763672
 lines_extracted: 14
-word_count: 56
+word_count: 53
 
 ==================================================
 
 Here is the exact text from the government ID document:
 
 ---
-GOI (Top Center in Oval)
+GOI (Top-center in oval)
 
-AADHAAR (Centered Below GOI Logo)
+AADHAAR (Centered)
 
 Name:       ISAAC BAKSHI
 Father's Name:   Anvi Bakshi
@@ -26,5 +26,5 @@ Address:
 Phone:      +91 3863794026
 
 Unique Identification Authority of India
-www.uidai.gov.in
+www.uidai.gov.in (Bottom-center)
 ---

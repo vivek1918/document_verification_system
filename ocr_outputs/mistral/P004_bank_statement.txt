@@ -1,9 +1,9 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P004_bank_statement
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P004\P004_bank_statement.png
-processing_time_ms: 4450.381517410278
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P004\P004_bank_statement.png
+processing_time_ms: 4155.014276504517
 lines_extracted: 26
-word_count: 153
+word_count: 156
 
 ==================================================
 
@@ -26,16 +26,16 @@ Here is the exact text from the document image:
 | Account Number: | 1326773602    |
 | Date of Birth:   | 19-06-1982    |
 | Phone Number:    | +91-7376311656|
-| Address:         | H.No 031 Narayan Nagar, Kottayam, Haryana, PIN: 738299 |
+| Address:        | H.No 031 Narayan Nagar, Kottayam, Haryana, PIN: 738299 |
 
 ### Statement Date: 12-09-2025
 
 | Date         | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
-|--------------|-------------------|-----------|------------|------------|
-| 01-09-2025   | Opening Balance   | -         | -          | 50,000.00  |
-| 05-09-2025   | Salary Credit      | -         | 85,000.00  | 1,35,000.00|
-| 10-09-2025   | Utility Payment    | 2,500.00  | -          | 1,32,500.00|
-| 15-09-2025   | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00|
+|--------------|-------------------|-----------|------------|-------------|
+| 01-09-2025   | Opening Balance   | -         | -          | 50,000.00    |
+| 05-09-2025   | Salary Credit     | -         | 85,000.00  | 1,35,000.00  |
+| 10-09-2025   | Utility Payment   | 2,500.00  | -          | 1,32,500.00  |
+| 15-09-2025   | ATM Withdrawal    | 5,000.00  | -          | 1,27,500.00  |
 
 ---
 
