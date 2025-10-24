@@ -1,27 +1,34 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P008_government_id
-image_path: sample_dataset_placeholder\P008\P008_government_id.png
-processing_time_ms: 15632.401466369629
-lines_extracted: 13
-word_count: 49
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P008\P008_government_id.png
+processing_time_ms: 3174.7848987579346
+lines_extracted: 17
+word_count: 64
 
 ==================================================
 
-その一方で、このAadhaarカードのテキストは以下の通りです：
+Sure, here is the exact text from the document image:
 
-Government of India (GOI)
-(LOGO/Emblem)
+---
+
+Government of India (GOI logo)
+---------------------------------
+[Emblem of India]
 
 AADHAAR
 
-PHOTO (box with grey background)
+Name:      Ronith Patla
+Father’s Name:   Raagini Patla
+Date of Birth:   29/04/1997
+Aadhaar No:      9967 7738 7214 (highlighted in yellow)
+Address:   H No 596, Mital Zila, Alappuzha, Karnataka - 482386
+Phone:     +91 2994680443
 
-Name: Ronith Patla
-Father’s Name: Raagini Patla
-Date of Birth: 29/04/1997
-Aadhaar No: 9967 7738 7214 (highlighted in yellow)
-Address: H.No 596, Mital Zila, Alappuzha, Karnataka - 482386
-Phone: +91 2994680443
+[Photo placeholder]
+
+[Barcode placeholder]
 
 Unique Identification Authority of India
 www.uidai.gov.in
+
+---

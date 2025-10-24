@@ -1,28 +1,37 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P002_government_id
-image_path: sample_dataset_placeholder\P002\P002_government_id.png
-processing_time_ms: 3697.842597961426
-lines_extracted: 12
-word_count: 52
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P002\P002_government_id.png
+processing_time_ms: 2267.720937728882
+lines_extracted: 22
+word_count: 53
 
 ==================================================
 
-Sure, here is the exact text as it appears in the document image:
+--------------------------------------------------------------------------
 
-Government of India Logo (GOI)
+(Emblem of India)
+                     GOI
 
-AADHAAR
+                     AADHAAR
 
-Name:      NICHOLAS PRABHAKAR
-Father’s Name:   Isha Prahakar
-Date of Birth:   10/05/2000
+--------------------------------------------------------------
+Photo        │
+             │
+             │   Name:       NICHOLAS PRABHAKAR
+             │   Father’s Name: Isha Prahakar
+             │   Date of Birth: 10/05/2000
+             │
+             │   Aadhaar No:  7242 3884 9696
+             │
+             │   Address:
+             │   419, Walla Street, Ujjain, Manipur-483503
+             │
+             │   Phone: +910564139537
+             │
 
-Aadhaar No:     [highlighted] 7242 3884 9696
-
-Address:
-419, Walla Street, Ujjain, Manipur - 483503
-
-Phone: +910564139537
-
+--------------------------------------------------------------
 Unique Identification Authority of India
 www.uidai.gov.in
+
+
+--------------------------------------------------------------------------

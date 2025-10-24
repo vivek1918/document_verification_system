@@ -1,10 +1,10 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P001_employment_letter_employment_letter
-image_path: sample_dataset_placeholder\P001\P001_employment_letter.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P001\P001_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 8717.132806777954
-lines_extracted: 24
-word_count: 144
+processing_time_ms: 3069.6940422058105
+lines_extracted: 25
+word_count: 117
 
 ==================================================
 
@@ -12,38 +12,35 @@ Sure, here is the extracted text from the employment letter:
 
 ---
 
-**[Logo with "TECH" text]**
+```
+TECH
 
 TechCorp Solutions Pvt. Ltd.
-
 Tower A Cyber Park, Bangalore - 560001
-
 Email: hr@techcorp.com | Phone: +91-80-12345678
 
----
-
-**EMPLOYMENT CERTIFICATE**
+EMPLOYMENT CERTIFICATE
 
 Date: August 13, 2025
 
 This is to certify that Isaac Bakshi is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
-| Employee Name:      | Isaac Bakshi              |
-|---------------------|---------------------------|
-| Father's Name:      | Anvi Bakshi               |
-| Date of Birth:      | September 07, 1998        |
-| Employee ID:        | EMP5931                   |
-| Designation:        | Software Engineer         |
-| PAN Number:         | YFJSO0781N                |
-| Email:              | isaac.bakshi@yahoo.com    |
-| Residential Address | House No. 321, Chahal Circle, Patna - 338908, Andhra Pradesh |
+Employee Name:      Isaac Bakshi
+Father's Name:      Anvi Bakshi
+Date of Birth:      September 07, 1998
+Employee ID:        EMP5931
+Designation:        Software Engineer
+PAN Number:         YFJSO0781N
+Email:              isaac.bakshi@yahoo.com
+Residential Address:
+                    House No. 321, Chahal Circle, Patna - 338908, Andhra Pradesh
 
 This letter is issued at the request of the employee for official purposes.
 
 For TechCorp Solutions Pvt. Ltd.
 
-**[Company Seal]**
-
-_____________________
-
+_________________________
 Authorized Signatory
+
+COMPANY SEAL
+```

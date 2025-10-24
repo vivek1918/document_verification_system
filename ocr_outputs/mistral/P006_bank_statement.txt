@@ -1,9 +1,9 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P006_bank_statement
-image_path: sample_dataset_placeholder\P006\P006_bank_statement.png
-processing_time_ms: 17457.08966255188
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P006\P006_bank_statement.png
+processing_time_ms: 4030.9863090515137
 lines_extracted: 26
-word_count: 158
+word_count: 155
 
 ==================================================
 
@@ -22,20 +22,20 @@ Here is the exact text from the document image:
 ### September 2025
 
 | Account Holder: | Tanay Toor |
-|-----------------|-----------|
+|-----------------|------------|
 | Account Number: | 8059826204 |
 | Date of Birth:  | 31-07-1973 |
 | Phone Number:   | +91-2411824493 |
-| Address:        | 513 Mane Path, Bahraich, Uttarakhando, PIN: 980841 |
+| Address:        | 513 Mane Path, Bahraich, Uttarakhanda, PIN: 980841 |
 
 | Statement Date: | 12-09-2025 |
 
-| Date        | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
-|-------------|-------------------|-----------|------------|-------------|
-| 01-09-2025  | Opening Balance   | -         | -          | 50,000.00    |
-| 05-09-2025  | Salary Credit     | -         | 85,000.00  | 1,35,000.00  |
-| 10-09-2025  | Utility Payment   | 2,500.00  | -          | 1,32,500.00  |
-| 15-09-2025  | ATM Withdrawal    | 5,000.00  | -          | 1,27,500.00  |
+| Date         | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
+|--------------|-------------------|-----------|------------|------------|
+| 01-09-2025   | Opening Balance   | -         | -          | 50,000.00  |
+| 05-09-2025   | Salary Credit     | -         | 85,000.00  | 1,35,000.00|
+| 10-09-2025   | Utility Payment   | 2,500.00  | -          | 1,32,500.00|
+| 15-09-2025   | ATM Withdrawal    | 5,000.00  | -          | 1,27,500.00|
 
 ---
 

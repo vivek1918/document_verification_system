@@ -1,14 +1,14 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P002_employment_letter_employment_letter
-image_path: sample_dataset_placeholder\P002\P002_employment_letter.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P002\P002_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 3683.321475982666
+processing_time_ms: 16289.398670196533
 lines_extracted: 23
-word_count: 137
+word_count: 138
 
 ==================================================
 
-Sure, here is the extracted text from the employment letter:
+Certainly! Here is the exact text from the employment letter:
 
 ---
 
@@ -26,21 +26,21 @@ Date: August 13, 2025
 
 This is to certify that Nicholas Prabhakar is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
-| Employee Name:      | Nicholas Prabhakar          |
-|---------------------|-----------------------------|
-| Father's Name:      | Isha Prabhakar              |
-| Date of Birth:      | May 10, 2000                |
-| Employee ID:        | EMP2691                     |
-| Designation:        | Data Scientist              |
-| PAN Number:         | FFWDH5328J                  |
-| Email:              | nicholas.prabhakar@yahoo.com|
-| Residential Address | House No. 419, Walla Street, Ujjian - 483503, Manipur |
+| Employee Name:      | Nicholas Prabhakar       |
+|---------------------|--------------------------|
+| Father's Name:      | Isha Prabhakar           |
+| Date of Birth:      | May 10, 2000             |
+| Employee ID:        | EMP2691                  |
+| Designation:        | Data Scientist           |
+| PAN Number:         | FFWDH5328J               |
+| Email:              | nicholas.prabhakar@yahoo.com |
+| Residential Address | House No. 419, Walla Street, Ujjain - 483503, Manipur |
 
 This letter is issued at the request of the employee for official purposes.
 
 For TechCorp Solutions Pvt. Ltd.
 
-______________________
+__________________________
 Authorized Signatory
 
 ---

@@ -83,62 +83,95 @@ class DocumentVerificationPipeline:
 
         ocr_results = {}
         active_ocr_engines = []
+        all_extracted_data = {}
 
         mistral_key = self.config.get("ocr", {}).get("mistral_api_key")
         groq_key = self.config.get("llm", {}).get("groq_api_key")
         groq_model = self.config.get("llm", {}).get("groq_model", "openai/gpt-oss-20b")
 
+        # Process each document type separately
         for doc_type, doc_path in document_paths.items():
             if not os.path.exists(doc_path):
                 logger.error(f"❌ Document file not found: {doc_path}")
                 continue
 
             # Preprocess image
-            logger.info("   ⚙️  Preprocessing image...")
+            logger.info(f"   ⚙️  Preprocessing {doc_type} image...")
             preprocessed_img, preproc_time = preprocess_image(doc_path)
+
+            # Initialize OCR results for this document type
+            doc_ocr_results = {}
 
             # --- Original Mistral OCR ---
             if self.config.get("ocr", {}).get("enable_mistral_ocr", True) and mistral_key:
                 try:
-                    active_ocr_engines.append("Mistral API")
-                    logger.info("   🤖 Using Original Mistral API OCR...")
+                    if "Mistral API" not in active_ocr_engines:
+                        active_ocr_engines.append("Mistral API")
+                    logger.info(f"   🤖 Using Original Mistral API OCR for {doc_type}...")
                     mistral_result = run_mistral_ocr(doc_path, mistral_key, save_output=True)
                     # Ensure dict format
                     if isinstance(mistral_result, str):
                         mistral_result = {"raw_text": mistral_result, "success": True}
-                    ocr_results['mistral'] = mistral_result
-                    logger.info(f"   ✅ Original Mistral OCR: {len(mistral_result.get('raw_text',''))} chars")
+                    doc_ocr_results['mistral'] = mistral_result
+                    logger.info(f"   ✅ Original Mistral OCR for {doc_type}: {len(mistral_result.get('raw_text',''))} chars")
                 except Exception as e:
-                    logger.error(f"   💥 Original Mistral OCR error: {e}")
+                    logger.error(f"   💥 Original Mistral OCR error for {doc_type}: {e}")
 
             # --- Enhanced Mistral OCR ---
             if self.config.get("ocr", {}).get("enable_mistral_ocr_enhanced", True) and mistral_key:
                 try:
-                    active_ocr_engines.append("Mistral API Enhanced")
-                    logger.info("   🤖 Using Mistral API Enhanced OCR...")
+                    if "Mistral API Enhanced" not in active_ocr_engines:
+                        active_ocr_engines.append("Mistral API Enhanced")
+                    logger.info(f"   🤖 Using Mistral API Enhanced OCR for {doc_type}...")
                     mistral_result_enh = run_enhanced_mistral_ocr(doc_path, mistral_key, doc_type=doc_type, save_output=True)
                     # Ensure dict format
                     if isinstance(mistral_result_enh, str):
                         mistral_result_enh = {"raw_text": mistral_result_enh, "success": True}
-                    ocr_results['mistral_enhanced'] = mistral_result_enh
-                    logger.info(f"   ✅ Mistral Enhanced OCR: {len(mistral_result_enh.get('raw_text',''))} chars")
+                    doc_ocr_results['mistral_enhanced'] = mistral_result_enh
+                    logger.info(f"   ✅ Mistral Enhanced OCR for {doc_type}: {len(mistral_result_enh.get('raw_text',''))} chars")
                 except Exception as e:
-                    logger.error(f"   💥 Mistral Enhanced OCR error: {e}")
+                    logger.error(f"   💥 Mistral Enhanced OCR error for {doc_type}: {e}")
 
-            # --- Extract entities using regex/Groq ---
+            # Store OCR results for this document type
+            ocr_results[doc_type] = doc_ocr_results
+
+            # --- Extract entities for this document ---
             try:
-                # Always pass a dict with both keys to extract_entities
-                extracted_data = extract_entities(ocr_results, doc_type, use_groq=True, groq_api_key=groq_key, groq_model=groq_model)
+                # Pass the OCR results for THIS document only
+                extracted_data = extract_entities(doc_ocr_results, doc_type, use_groq=True, groq_api_key=groq_key, groq_model=groq_model)
                 extracted_data = apply_confusion_corrections(extracted_data)
+                
+                # Merge extracted data (prioritize non-empty values)
+                for field, value in extracted_data.items():
+                    if value and value.get('value'):
+                        all_extracted_data[field] = value
             except Exception as e:
                 logger.error(f"   💥 Extraction error for {doc_type}: {e}")
-                extracted_data = {}
+
+        # Determine overall status based on extracted data
+        has_essential_data = any(all_extracted_data.get(field, {}).get('value') 
+                            for field in ['full_name', 'aadhaar_number', 'pan_number'])
+        
+        overall_status = "VERIFIED" if has_essential_data else "FAILED"
+
+        logger.info(f"📊 FINAL STRUCTURE for {person_id}:")
+        logger.info(f"   - Document types found: {list(ocr_results.keys())}")
+        logger.info(f"   - Documents count: {len(ocr_results)}")
+        logger.info(f"   - OCR engines used: {active_ocr_engines}")
+        logger.info(f"   - OCR engines count: {len(active_ocr_engines)}")
+        
+        for doc_type, doc_data in ocr_results.items():
+            logger.info(f"   - {doc_type}: {len(doc_data)} OCR engines")
+            for engine, engine_data in doc_data.items():
+                success = engine_data.get('success', False)
+                text_len = len(engine_data.get('raw_text', ''))
+                logger.info(f"     * {engine}: success={success}, text_len={text_len}")
 
         return {
             "person_id": person_id,
             "ocr_results": ocr_results,
-            "extracted_data": extracted_data,
-            "overall_status": "VERIFIED" if extracted_data else "FAILED",
+            "extracted_data": all_extracted_data,
+            "overall_status": overall_status,
             "ocr_engines_used": active_ocr_engines
         }
 

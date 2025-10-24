@@ -1,36 +1,30 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P003_government_id
-image_path: sample_dataset_placeholder\P003\P003_government_id.png
-processing_time_ms: 7992.977619171143
-lines_extracted: 18
-word_count: 64
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P003\P003_government_id.png
+processing_time_ms: 2474.0381240844727
+lines_extracted: 15
+word_count: 41
 
 ==================================================
 
-Sure, here is the text extracted exactly as it appears in the document image:
+───────────
+          GOI
 
----
+───────────
+          🏛️
 
-[GOI Logo]
-GOI
+       AADHAAR
 
-[Emblem of India]
-
-AADHAAR
-
-Name:      Amara Oak
-Father's Name:   Isaac Oak
-Date of Birth:   21/11/1979
-Aadhaar No:      [Highlighted]5430 3911 7182[Highlighted]
+Name:         Amara Oak
+Father’s Name: Isaac Oak
+Date of Birth: 21/11/1979
+Aadhaar No:   5430 3911 7182
 
 Address:
-H No 62, Aggarwal Chawk, Orai, Tripura: 814893
-Phone:     +91 2528809570
+H No 62, Aggarwal Chawk, Orai, Tripura - 814893
 
-[Photo Placeholder]
+Phone:        +91 2528809570
 
-[Unique Identification Authority of India]
+───────────────────────────────────────────────────────────────────────────────────
 Unique Identification Authority of India
-www.uidai.gov.in
-
----
+[www.uidai.gov.in](http://www.uidai.gov.in)

@@ -22,7 +22,7 @@ def extract_entities(
     Extract structured entities from OCR results using Groq API or fallback regex.
 
     Args:
-        ocr_results: Dict with OCR results (mistral, mistral_enhanced)
+        ocr_results: Dict with OCR results for a SINGLE document (e.g., {'mistral': {...}, 'mistral_enhanced': {...}})
         doc_type: Type of document
         use_groq: Whether to use Groq for extraction
         groq_api_key: Groq API key
@@ -46,7 +46,7 @@ def extract_entities(
         for engine, result in ocr_results.items():
             if isinstance(result, dict) and result.get('success') and result.get('raw_text'):
                 ocr_text = _extract_raw_text(result)
-                logger.info(f"Using {engine} OCR text: {len(ocr_text)} chars")
+                logger.info(f"Using {engine} OCR text for {doc_type}: {len(ocr_text)} chars")
                 break
 
     if not ocr_text:

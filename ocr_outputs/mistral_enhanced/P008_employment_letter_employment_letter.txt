@@ -1,14 +1,14 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P008_employment_letter_employment_letter
-image_path: sample_dataset_placeholder\P008\P008_employment_letter.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P008\P008_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 4778.365612030029
-lines_extracted: 23
-word_count: 142
+processing_time_ms: 2965.3749465942383
+lines_extracted: 22
+word_count: 141
 
 ==================================================
 
-Sure, here is the exact text from the employment letter:
+Sure, here is the extracted text from the employment letter:
 
 ---
 
@@ -28,11 +28,11 @@ This is to certify that Ronith Patla is a confirmed employee of TechCorp Solutio
 
 | Employee Name:      | Ronith Patla                     |
 |---------------------|----------------------------------|
-| Father's Name:      | Mugdha Kohli                     |
+| Father’s Name:      | Mugdha Kohli                     |
 | Date of Birth:      | April 29, 1997                   |
 | Employee ID:        | EMP3200                          |
 | Designation:        | Data Scientist                  |
-| PAN Number:         | WPRTC08951Z                      |
+| PAN Number:         | WPRTC8951Z                      |
 | Email:              | ronith.patla@yahoo.com           |
 | Residential Address | House No. H No 595, Mitali Zila, Alappuzha - 482366, Karnataka |
 
@@ -40,8 +40,5 @@ This letter is issued at the request of the employee for official purposes.
 
 For TechCorp Solutions Pvt. Ltd.
 
-_____________________________
-
+______________________
 Authorized Signatory
-
----

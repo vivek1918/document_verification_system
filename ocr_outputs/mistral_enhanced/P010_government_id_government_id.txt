@@ -1,29 +1,31 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P010_government_id_government_id
-image_path: sample_dataset_placeholder\P010\P010_government_id.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P010\P010_government_id.png
 doc_type: government_id
-processing_time_ms: 4927.966594696045
+processing_time_ms: 2435.256242752075
 lines_extracted: 15
-word_count: 62
+word_count: 51
 
 ==================================================
 
 Here is the exact text as it appears in the government ID document:
 
 ---
-GOI (Top-center in oval shape)
+GOI (Emblem)
 
-AADHAAR (Centered below the GOI oval)
+AADHAAR
 
 Name:      Thomas Sura
 Father's Name:   Theodore Sura
 Date of Birth:   16/09/2000
-Aadhaar No:      5299 1241 (highlighted in yellow)
+Aadhaar No:      5299 1241
+
 Address:
 H.No 67, Ramachandran Nagar, Machilipatnam, Telangana
 - 729806
-Phone:     +919901627204
+
+Phone:     +91 9901627204
 
 Unique Identification Authority of India
-www.uidai.gov.in (Bottom-center)
+www.uidai.gov.in
 ---

@@ -1,55 +1,47 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P005_bank_statement
-image_path: sample_dataset_placeholder\P005\P005_bank_statement.png
-processing_time_ms: 7961.400747299194
-lines_extracted: 37
-word_count: 157
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P005\P005_bank_statement.png
+processing_time_ms: 3451.402187347412
+lines_extracted: 26
+word_count: 156
 
 ==================================================
 
-Here is the extracted text from the document image:
+Here is the exact text from the document image:
 
 ---
-```
-       NIB
-```
 
-```
-NATONAL INDIA BANK
-Banking with Trust
-```
+![NIB Logo]
+# NATIONAL INDIA BANK
+## Banking with Trust
 
-```
-BANK STATEMENT
-```
+---
 
-```
-September 2025
-```
+# BANK STATEMENT
 
-```
-|-------------------------------------------------------------|
-| Account Holder:   Ladli Singh gAate                         |
-| Account Number:   4751079911                                |
-| Date of Birth:    13-12-1971                                |
-| Phone Number:     +91-0978820812                            |
-| Address:          H.No.74 Sur Marg, Jhansi, Jhankhand,      |
-|                   PIN:088050                                |
-|-------------------------------------------------------------|
+### September 2025
 
-Statement Date: 12-09-2025
+| Account Holder: | Ladii Singh gAate |
+|-----------------|-------------------|
+| Account Number: | 4751079911        |
+| Date of Birth:  | 13-12-1971        |
+| Phone Number:   | +91-0978820812    |
+| Address:        | H.No.74 Sur Marg, Jhansi, Jhankhand, PIN:088050 |
 
-|-------------------------------------------------------------|
+### Statement Date: 12-09-2025
+
 | Date         | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
 |--------------|-------------------|-----------|------------|-------------|
-| 01-09-2025   | Opening Balance   | -         | -          | 50,000.00   |
-| 05-09-2025   | Salary Credit      | -         | 85,000.00  | 1,35,000.00 |
-| 10-09-2025   | Utility Payment    | 2,500.00  | -          | 1,32,500.00 |
-| 15-09-2025   | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00 |
-|-------------------------------------------------------------|
+| 01-09-2025   | Opening Balance   | -         | -          | 50,000.00    |
+| 05-09-2025   | Salary Credit     | -         | 85,000.00  | 1,35,000.00  |
+| 10-09-2025   | Utility Payment   | 2,500.00  | -          | 1,32,500.00  |
+| 15-09-2025   | ATM Withdrawal    | 5,000.00  | -          | 1,27,500.00  |
+
+---
 
 This is a computer-generated statement and does not require signature
 
+---
+
 National India Bank | Mumbai Main Branch
 Email: care@nationalindiabank.com | Phone: 1800-XXX-XXXX
-```

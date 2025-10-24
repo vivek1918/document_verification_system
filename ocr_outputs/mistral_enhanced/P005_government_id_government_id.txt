@@ -1,10 +1,10 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P005_government_id_government_id
-image_path: sample_dataset_placeholder\P005\P005_government_id.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpvh_mw7xd\P005\P005_government_id.png
 doc_type: government_id
-processing_time_ms: 2506.92081451416
-lines_extracted: 15
-word_count: 49
+processing_time_ms: 1853.957176208496
+lines_extracted: 14
+word_count: 48
 
 ==================================================
 
@@ -12,8 +12,6 @@ Here is the exact text from the government ID document:
 
 ---
 GOI
-
-IIII
 
 AADHAAR
 
@@ -23,9 +21,8 @@ Date of Birth:   13/12/1971
 Aadhaar No:      9136 1939 9091
 
 Address:
-H.No 74 Sur Marg, Jhansi, Jhankhand - 098050
-
-Phone:     +91 0978820812
+H.No 74 Sur Marg, Jhansi, Jharkhand - 098050
+Phone: +91 0978820812
 
 Unique Identification Authority of India
 www.uidai.gov.in
