@@ -1,20 +1,21 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P009_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpmxjge6u8\P009\P009_government_id.png
-processing_time_ms: 1939.1639232635498
-lines_extracted: 13
-word_count: 53
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P009\P009_government_id.png
+processing_time_ms: 2270.164728164673
+lines_extracted: 14
+word_count: 41
 
 ==================================================
 
-Sure, here is the text as it appears in the image:
+その一方で、このAadhaarカードのテキストは以下の通りです：
 
-Government of India (GOI logo)
-----------------------------------
+```
+GOI (Logo)
+
 AADHAAR
 
 Name:      Manbir Ahluwalia
-Father’s Name:  Hredaan Ahluwalia
+Father’s Name:  Hredhaan Ahluwalia
 Date of Birth:  08/01/1987
 Aadhaar No:     3487 3471 4345 (highlighted in yellow)
 
@@ -24,3 +25,4 @@ Phone:     +915798687277
 
 Unique Identification Authority of India
 www.uidai.gov.in
+```

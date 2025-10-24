@@ -1,17 +1,17 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P008_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P008\P008_employment_letter.png
-processing_time_ms: 3558.818578720093
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P008\P008_employment_letter.png
+processing_time_ms: 6314.527750015259
 lines_extracted: 27
-word_count: 138
+word_count: 141
 
 ==================================================
 
-![Logo]
-
 ---
 
-TechCorp Solutions Pvt. Ltd.
+![Company Logo](TECH)
+
+**TechCorp Solutions Pvt. Ltd.**
 
 Tower A Cyber Park, Bangalore - 560001
 
@@ -19,23 +19,23 @@ Email: hr@techcorp.com | Phone: +91 80 12345678
 
 ---
 
-**EMPLOYMENT CERTIFICATE**
+# EMPLOYMENT CERTIFICATE
 
 ---
 
 Date: August 13, 2025
 
-This is to certify that Ronith Patla is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
+This is to certify that **Ronith Patla** is a confirmed employee of **TechCorp Solutions Pvt. Ltd.** The details are as follows:
 
-| Employee Name:       | Ronith Patla                     |
-|----------------------|-----------------------------------|
-| Father’s Name:       | Mugdha Kohli                      |
-| Date of Birth:       | April 29, 1997                    |
-| Employee ID:         | EMP3200                           |
-| Designation:         | Data Scientist                    |
-| PAN Number:          | WPRTC08951Z                       |
-| Email:               | ronith.patla@yahoo.com            |
-| Residential Address: | House No. H No 595, Mitali Zila, Alappuzha - 482366, Karnataka |
+| Employee Name:      | Ronith Patla                     |
+|---------------------|----------------------------------|
+| Father's Name:      | Mugdha Kohli                     |
+| Date of Birth:      | April 29, 1997                   |
+| Employee ID:        | EMP3200                          |
+| Designation:        | Data Scientist                   |
+| PAN Number:         | WPRTC08951Z                      |
+| Email:              | ronith.patla@yahoo.com           |
+| Residential Address | House No. H No 595, Mitali Zila, Alapuzha - 482366, Karnataka |
 
 ---
 
@@ -43,11 +43,11 @@ This letter is issued at the request of the employee for official purposes.
 
 ---
 
-For TechCorp Solutions Pvt. Ltd.
+For **TechCorp Solutions Pvt. Ltd.**
 
-_________________________
+__________________________
 Authorized Signatory
 
 ---
 
-![Company Seal]
+![Company Seal](COMPANY SEAL)

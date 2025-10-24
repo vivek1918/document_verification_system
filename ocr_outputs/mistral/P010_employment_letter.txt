@@ -1,17 +1,17 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P010_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P010\P010_employment_letter.png
-processing_time_ms: 5523.010015487671
-lines_extracted: 26
-word_count: 152
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P010\P010_employment_letter.png
+processing_time_ms: 9534.638404846191
+lines_extracted: 27
+word_count: 157
 
 ==================================================
 
 Here is the exact text from the document image:
 
------------------------------------------
+---
 
-[Company Logo: TECH]
+![Company Seal with "TECH" in the center]
 
 TechCorp Solutions Pvt. Ltd.
 
@@ -19,7 +19,7 @@ Tower A Cyber Park, Bangalore - 560001
 
 Email: hr@techcorp.com | Phone: +91 80 12345678
 
------------------------------------------
+---
 
 EMPLOYMENT CERTIFICATE
 
@@ -40,10 +40,12 @@ This is to certify that Thomas Sura is a confirmed employee of TechCorp Solution
 |                     | Machilipatnam -      |
 |                     | 729806, Telangana    |
 
-This letter is issued at the request of the employee for official purposes.
+This letter is issued at the request of the employee for official purposes
 
 For TechCorp Solutions Pvt. Ltd.
 
 [Company Seal]
 
 Authorized Signatory
+
+---

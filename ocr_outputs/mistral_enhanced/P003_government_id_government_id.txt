@@ -1,34 +1,31 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P003_government_id_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P003\P003_government_id.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp2mc2qc8i\P003\P003_government_id.png
 doc_type: government_id
-processing_time_ms: 2763.517141342163
-lines_extracted: 14
-word_count: 53
+processing_time_ms: 3410.4068279266357
+lines_extracted: 15
+word_count: 54
 
 ==================================================
 
-Here is the extracted text from the government ID document, preserving the exact formatting:
+Here is the exact text as it appears in the government ID document:
 
 ---
-**GOI**
+GOI (Emblem)
 
-**AADHAAR**
+IIII
 
-Name:       Amara Oak
+AADHAAR
 
+Name:      Amara Oak
 Father's Name:   Isaac Oak
-
 Date of Birth:   21/11/1979
-
 Aadhaar No:      5430 3911 7182
 
 Address:
 H No 62, Aggarwal Chawk, Orai, Tripura - 814893
-
-Phone:      +91 2528809570
+Phone:     +91 2528809570
 
 Unique Identification Authority of India
 www.uidai.gov.in
-
 ---

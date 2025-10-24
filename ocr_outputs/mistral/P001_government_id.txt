@@ -1,30 +1,34 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P001_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P001\P001_government_id.png
-processing_time_ms: 1811.9001388549805
-lines_extracted: 14
-word_count: 39
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P001\P001_government_id.png
+processing_time_ms: 2052.445888519287
+lines_extracted: 15
+word_count: 44
 
 ==================================================
 
- Ezt":
+ Njegovi tekst iz dokumentne slike:
 
-----------
-          GOI
+---
 
-          AADHAAR
+GOI
 
-Name:            ISAAC BAKSHI
-Father's Name:   Anvi Bakshi
+[Logo]
+
+AADHAAR
+
+Name:        ISAAC BAKSHI
+Father’s Name:   Anvi Bakshi
 Date of Birth:   07/09/1998
 
-Aadhaar No:      4235 1161 5594
+Aadhaar No:    4235 1161 5594
 
 Address:
 321, Chahal Circle, Patna, Andhra Pradesh - 338908
 
-Phone:           +91 3863794026
+Phone:         +91 3863794026
 
-----------
 Unique Identification Authority of India
 www.uidai.gov.in
+
+---

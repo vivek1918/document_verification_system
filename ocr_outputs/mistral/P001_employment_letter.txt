@@ -1,17 +1,17 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P001_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P001\P001_employment_letter.png
-processing_time_ms: 4959.523439407349
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P001\P001_employment_letter.png
+processing_time_ms: 5136.3489627838135
 lines_extracted: 24
-word_count: 141
+word_count: 142
 
 ==================================================
 
-Here is the extracted text from the document image:
+Here is the exact text from the document image:
 
 ---
 
-![TECH Logo]
+![Tech Logo](TECH)
 
 TechCorp Solutions Pvt. Ltd.
 
@@ -44,4 +44,4 @@ For TechCorp Solutions Pvt. Ltd.
 __________________________
 Authorized Signatory
 
-![COMPANY SEAL]
+![Company Seal](COMPANY SEAL)

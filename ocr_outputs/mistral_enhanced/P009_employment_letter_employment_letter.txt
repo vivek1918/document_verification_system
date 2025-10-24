@@ -1,14 +1,14 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P009_employment_letter_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P009\P009_employment_letter.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P009\P009_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 5065.452337265015
+processing_time_ms: 4208.01854133606
 lines_extracted: 23
-word_count: 138
+word_count: 139
 
 ==================================================
 
-Certainly! Here is the exact text from the employment letter:
+Certainly! Here is the extracted text from the employment letter:
 
 ---
 TechCorp Solutions Pvt. Ltd.
@@ -39,7 +39,7 @@ This letter is issued at the request of the employee for official purposes.
 
 For TechCorp Solutions Pvt. Ltd.
 
-_________________________
+__________________________
 Authorized Signatory
 
----
+COMPANY SEAL

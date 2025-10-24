@@ -1,32 +1,31 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P006_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P006\P006_government_id.png
-processing_time_ms: 2132.638931274414
-lines_extracted: 15
-word_count: 54
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P006\P006_government_id.png
+processing_time_ms: 3027.0912647247314
+lines_extracted: 14
+word_count: 42
 
 ==================================================
 
-Sure, here is the text extracted exactly as it appears in the document image:
+--------------------------------------------------------------------------
 
----
+(Emblem of India)
 
 GOI
 
-[Emblem of India]
-
 AADHAAR
 
-Name:        Tanay Toor
-Father's Name:  Alka Toor
-Date of Birth:     31/07/1973
-Aadhaar No:   5348 7401 6400
+Name:            Tanay Toor
+Father’s Name:   Alka Toor
+Date of Birth:   31/07/1973
+
+Aadhaar No:      5348 74016400 (highlighted in yellow)
 
 Address:
-513, Mane Path, Bahraich, Uttarakhanda - 980841
-Phone:      +91 2411824493
+513, Mane Path, Bahraich, Uttarakhando - 980841
 
+Phone:           +91 2411824493
+
+--------------------------------------------------------------------------
 Unique Identification Authority of India
 www.uidai.gov.in
-
----

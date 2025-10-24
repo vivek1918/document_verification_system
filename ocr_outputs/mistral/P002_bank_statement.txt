@@ -1,7 +1,7 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P002_bank_statement
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P002\P002_bank_statement.png
-processing_time_ms: 8742.374658584595
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P002\P002_bank_statement.png
+processing_time_ms: 5631.822347640991
 lines_extracted: 26
 word_count: 158
 
@@ -13,7 +13,7 @@ Here is the exact text from the document image:
 
 ![NIB Logo]
 # NATIONAL INDIA BANK
-### Banking with Trust
+## Banking with Trust
 
 ---
 
@@ -30,12 +30,12 @@ Here is the exact text from the document image:
 
 | Statement Date: | 12-09-2025 |
 
-| Date          | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
-|---------------|-------------------|-----------|------------|-------------|
-| 01-09-2025    | Opening Balance   | -         | -          | 50,000.00   |
-| 05-09-2025    | Salary Credit      | -         | 85,000.00  | 1,35,000.00 |
-| 10-09-2025    | Utility Payment    | 2,500.00  | -          | 1,32,500.00 |
-| 15-09-2025    | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00 |
+| Date       | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
+|------------|-------------------|-----------|------------|-------------|
+| 01-09-2025 | Opening Balance   | -         | -          | 50,000.00    |
+| 05-09-2025 | Salary Credit     | -         | 85,000.00  | 1,35,000.00  |
+| 10-09-2025 | Utility Payment   | 2,500.00  | -          | 1,32,500.00  |
+| 15-09-2025 | ATM Withdrawal    | 5,000.00  | -          | 1,27,500.00  |
 
 ---
 
