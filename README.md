@@ -83,9 +83,12 @@ Build `document_verification_system` from the source and install dependencies:
 3. Install the dependencies:
    ```bash
    pip install -r requirements.txt
-4. Run the project with:
+4. Run the backend API (FastAPI)
    ```bash
    python run_pipeline.py --input sample_dataset_placeholder --output results.json
+5. Run the Streamlit frontend
+   ```bash
+   streamlit run app.py
 
 ---
 
@@ -94,6 +97,26 @@ Build `document_verification_system` from the source and install dependencies:
 The system follows a modular architecture with multiple stages of document processing and validation.
 
 <img width="1044" height="930" alt="visual selection" src="https://github.com/user-attachments/assets/8f008053-7142-4dfe-9fcd-d43e6c29a4ce" />
+
+---
+
+### 🖥️ Frontend (Streamlit)
+The project includes a user-friendly **Streamlit** interface to upload and verify documents seamlessly.  
+Users can:
+- Upload images or zip files.
+- View extracted text and structured data instantly.
+- See visual feedback for OCR accuracy.
+  
+---
+## 🧾 App Preview
+<img width="1912" height="740" alt="image" src="https://github.com/user-attachments/assets/8fc3aaec-8048-4c48-8415-3ff3d0928269" />
+<img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/5f149f26-0d6b-4f27-a7cd-75f522b6d7db" />
+<img width="1915" height="868" alt="image" src="https://github.com/user-attachments/assets/a582a2e5-fa26-4ce0-9d78-ecda60eb6e6d" />
+<img width="1837" height="862" alt="image" src="https://github.com/user-attachments/assets/789cb67a-2ede-4c18-bdc4-c67fb2c64921" />
+<img width="1919" height="840" alt="image" src="https://github.com/user-attachments/assets/9c656d6b-816e-4b4c-adae-bc6a08dc9371" />
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/710574ac-b67a-4732-b74e-85a9bf8af78d" />
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/7eae213a-e492-4943-83ee-0d6eb2d239fe" />
+<img width="1635" height="1158" alt="localhost_8501_" src="https://github.com/user-attachments/assets/142437c3-039d-4928-92cd-43168159a61d" />
 
 ---
 
@@ -123,6 +146,7 @@ The system follows a modular architecture with multiple stages of document proce
 ```bash
 doc-verification_system/
 ├─ README.md
+├─ app.py
 ├─ requirements.txt
 ├─ config.yml
 ├─ run_pipeline.py
