@@ -55,7 +55,7 @@ This project aims to simplify complex identity and document verification process
 
 ## Project Demo
 
-Watch the demo video on [Loom](https://www.loom.com/share/your-video-id)
+Watch the demo video on [Loom](https://www.loom.com/share/7d173f2edaef470cbf65efa315826969)
 
 Explore how the Document Verification System performs OCR, entity extraction, and structured validation in real time.
 
