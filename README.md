@@ -31,6 +31,8 @@ _Built with the tools and technologies:_
 - [Key Features](#key-features)
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
+- [Frontend](#frontend)
+- [App Preview](#app-preview)
 
 ---
 
@@ -100,15 +102,16 @@ The system follows a modular architecture with multiple stages of document proce
 
 ---
 
-### 🖥️ Frontend (Streamlit)
+## Frontend (Streamlit)
 The project includes a user-friendly **Streamlit** interface to upload and verify documents seamlessly.  
 Users can:
 - Upload images or zip files.
 - View extracted text and structured data instantly.
 - See visual feedback for OCR accuracy.
-  
+
 ---
-## 🧾 App Preview
+  
+## App Preview
 <img width="1912" height="740" alt="image" src="https://github.com/user-attachments/assets/8fc3aaec-8048-4c48-8415-3ff3d0928269" />
 <img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/5f149f26-0d6b-4f27-a7cd-75f522b6d7db" />
 <img width="1915" height="868" alt="image" src="https://github.com/user-attachments/assets/a582a2e5-fa26-4ce0-9d78-ecda60eb6e6d" />
