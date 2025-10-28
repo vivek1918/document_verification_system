@@ -1,37 +1,31 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P002_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp2mc2qc8i\P002\P002_government_id.png
-processing_time_ms: 3732.2325706481934
-lines_extracted: 17
-word_count: 42
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P002\P002_government_id.png
+processing_time_ms: 3795.403003692627
+lines_extracted: 13
+word_count: 36
 
 ==================================================
 
-その一方で、このAadhaarカードのテキストは以下の通りです：
+ Ezt後述のテキストを抽出します：
 
 ---
-
 GOI
-(Emblem of India)
----
+
 AADHAAR
 
 Name:    NICHOLAS PRABHAKAR
 
-Father's Name:   Isha Prahakar
+Father's Name: Isha Prahakar
 
-Date of Birth:   10/05/2000
+Date of Birth:    10/05/2000
 
-Aadhaar No:      7242 3884 9696
+Aadhaar No:    7242 3884 9696
 
 Address:
 419, Walla Street, Ujjain, Manipur - 483503
 
-Phone:   +910564139537
+Phone:    +910564139537
 
----
 Unique Identification Authority of India
-www.uidai.gov.in
-
-
----
+[www.uidai.gov.in]

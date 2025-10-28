@@ -1,32 +1,29 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P008_government_id_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P008\P008_government_id.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P008\P008_government_id.png
 doc_type: government_id
-processing_time_ms: 3275.9315967559814
-lines_extracted: 15
-word_count: 54
+processing_time_ms: 2241.663932800293
+lines_extracted: 14
+word_count: 64
 
 ==================================================
 
-Here is the exact text from the government ID document as it appears:
+Here is the exact text from the government ID document:
 
 ---
-GOI (Emblem)
+GOI (Top-center in oval)
 
-UIDAI
+UIDAI (Logo at the top-left)
 
-AADHAAR
+AADHAAR (Centered below UIDAI logo)
 
 Name:      Ronith Patla
-Father's Name:   Raagini Patla
+Father’s Name:   Raagini Patla
 Date of Birth:   29/04/1997
-Aadhaar No:      9967 7738 7214
-
-Address:
-H No 596, Mital Zila, Alappuzha, Karnataka - 482386
-
+Aadhaar No:      9967 7738 7214 (Highlighted in yellow)
+Address:   H.No 596, Mital Zila, Alappuzha, Karnataka - 482386
 Phone:     +91 2994680443
 
 Unique Identification Authority of India
-www.uidai.gov.in
+www.uidai.gov.in (Bottom-center)
 ---

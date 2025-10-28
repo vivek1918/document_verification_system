@@ -1,31 +1,42 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P005_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpswu6flqd\P005\P005_government_id.png
-processing_time_ms: 2249.723434448242
-lines_extracted: 13
-word_count: 38
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P005\P005_government_id.png
+processing_time_ms: 2669.0056324005127
+lines_extracted: 19
+word_count: 71
 
 ==================================================
 
---------------------------------------------------------------------------
+その一方でこの他のカードから抽出されたテキストは以下の通りです：
 
-GOI
+---
+
+GOI (Top center in oval shape)
+
+---
+(A small Indian emblem)
 
 AADHAAR
 
-Name:          Ladli Agate
+Name: Ladli Agate
 
-Father’s Name: Madhavi Aggate
+Father's Name: Madhavi Aggate
 
 Date of Birth: 13/12/1971
 
-Aadhaar No:    9136 1939 9091
+Aadhaar No: 9136 1939 9091 (highlighted in yellow)
 
-Address:
-H No 74 Sur Marg, Jhansi, Jharkhand - 098050
+Address: H.No 74 Sur Marg, Jhansi, Jharkhand - 098050
 
-Phone:         +910978820812
+Phone: +910978820812
 
---------------------------------------------------------------------------
+---
+(Left bottom corner)
 Unique Identification Authority of India
 www.uidai.gov.in
+
+---
+
+
++++++++
+The QR code and photo sections are not transcribed as they do not contain text.

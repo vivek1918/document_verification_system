@@ -1,9 +1,9 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P007_bank_statement
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp2mc2qc8i\P007\P007_bank_statement.png
-processing_time_ms: 6184.374094009399
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P007\P007_bank_statement.png
+processing_time_ms: 4317.890405654907
 lines_extracted: 26
-word_count: 159
+word_count: 157
 
 ==================================================
 
@@ -28,14 +28,14 @@ Here is the exact text from the document image:
 | Phone Number:   | +91-3421606088 |
 | Address:        | 315 Ray Circle, Patiala, West Bengal, PIN: 260256 |
 
-| Statement Date: | 12-09-2025 |
+### Statement Date: 12-09-2025
 
 | Date         | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
 |--------------|-------------------|-----------|------------|-------------|
-| 01-09-2025   | Opening Balance   | -         | -          | 50,000.00    |
-| 05-09-2025   | Salary Credit      | -         | 85,000.00  | 1,35,000.00  |
-| 10-09-2025   | Utility Payment    | 2,500.00  | -          | 1,32,500.00  |
-| 15-09-2025   | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00  |
+| 01-09-2025   | Opening Balance   | -         | -          | 50,000.00   |
+| 05-09-2025   | Salary Credit      | -         | 85,000.00  | 1,35,000.00 |
+| 10-09-2025   | Utility Payment    | 2,500.00  | -          | 1,32,500.00 |
+| 15-09-2025   | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00 |
 
 ---
 

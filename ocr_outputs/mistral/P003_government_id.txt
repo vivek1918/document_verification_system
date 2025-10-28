@@ -1,16 +1,16 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P003_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P003\P003_government_id.png
-processing_time_ms: 3261.894464492798
-lines_extracted: 17
-word_count: 59
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P003\P003_government_id.png
+processing_time_ms: 2127.743721008301
+lines_extracted: 15
+word_count: 54
 
 ==================================================
 
-Sure, here is the text extracted exactly as it appears in the document image:
+Sure, here is the text exactly as it appears in the document image:
 
-```
-[GOI Logo]
+---
+
 GOI
 
 [Emblem of India]
@@ -24,10 +24,10 @@ Aadhaar No:      [Highlighted]5430 3911 7182[Highlighted]
 
 Address:
 H No 62, Aggarwal Chawk, Orai, Tripura: 814893
-Phone:     +91 2528809570
 
-[Photo Box]
+Phone:      +91 2528809570
 
-[Unique Identification Authority of India]
+Unique Identification Authority of India
 www.uidai.gov.in
-```
+
+---

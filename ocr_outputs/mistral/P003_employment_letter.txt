@@ -1,13 +1,13 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P003_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P003\P003_employment_letter.png
-processing_time_ms: 6128.549098968506
-lines_extracted: 23
-word_count: 134
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P003\P003_employment_letter.png
+processing_time_ms: 4003.1745433807373
+lines_extracted: 24
+word_count: 129
 
 ==================================================
 
-Here is the exact text from the document image:
+![Logo]
 
 ---
 
@@ -19,28 +19,30 @@ Email: hr@techcorp.com | Phone: +91-80-12345678
 
 ---
 
-**EMPLOYMENT CERTIFICATE**
+# EMPLOYMENT CERTIFICATE
 
-Date: August 13, 2025
+---
+
+**Date: August 13, 2025**
 
 This is to certify that **Amara Oak** is a confirmed employee of **TechCorp Solutions Pvt. Ltd.** The details are as follows:
 
-| Employee Name:      | Amara Oak          |
-|---------------------|--------------------|
-| Father's Name:      | Isaac Oak          |
-| Date of Birth:      | November 21, 1979  |
-| Employee ID:        | EMP3465            |
-| Designation:        | Project Manager    |
-| PAN Number:         | QHMBN2782I         |
-| Email:              | amara.oak@gmail.com|
-| Residential Address | House No. H.No.62, Aggarwal Chowk, Orai-814893, Tripura |
+| Employee Name:     | Amara Oak                     |
+|--------------------|-------------------------------|
+| Father’s Name:     | Isaac Oak                     |
+| Date of Birth:     | November 21, 1979             |
+| Employee ID:       | EMP3465                       |
+| Designation:       | Project Manager               |
+| PAN Number:        | QHMBN2782I                    |
+| Email:             | amara.oak@gmail.com           |
+| Residential Address| House No. H.No.62, Aggarwal Chowk, Orai-814893, Tripura |
 
 This letter is issued at the request of the employee for official purposes.
 
 For **TechCorp Solutions Pvt. Ltd.**
 
-_____________________________
-
-Authorized Signatory
+**Authorized Signatory**
 
 ---
+
+![Company Seal]

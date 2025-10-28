@@ -1,19 +1,19 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P001_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P001\P001_government_id.png
-processing_time_ms: 2052.445888519287
-lines_extracted: 15
-word_count: 44
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P001\P001_government_id.png
+processing_time_ms: 3428.8618564605713
+lines_extracted: 14
+word_count: 43
 
 ==================================================
 
- Njegovi tekst iz dokumentne slike:
+ Ezt-desszerint a szöveges tartalom:
 
 ---
 
 GOI
 
-[Logo]
+[Logo/Emblème]
 
 AADHAAR
 
@@ -23,9 +23,7 @@ Date of Birth:   07/09/1998
 
 Aadhaar No:    4235 1161 5594
 
-Address:
-321, Chahal Circle, Patna, Andhra Pradesh - 338908
-
+Address:       321, Chahal Circle, Patna, Andhra Pradesh - 338908
 Phone:         +91 3863794026
 
 Unique Identification Authority of India

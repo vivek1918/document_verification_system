@@ -1,37 +1,30 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P008_bank_statement_bank_statement
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P008\P008_bank_statement.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P008\P008_bank_statement.png
 doc_type: bank_statement
-processing_time_ms: 4247.006416320801
-lines_extracted: 27
-word_count: 154
+processing_time_ms: 6255.866527557373
+lines_extracted: 22
+word_count: 149
 
 ==================================================
 
-Sure, here is the exact text from the bank statement:
+Certainly! Here is the exact text from the bank statement:
 
 ---
-
 **National India Bank**
 
 Banking with Trust
 
----
-
 **BANK STATEMENT**
 
 September 2025
-
----
 
 | Account Holder: | Ronith Patla |
 |-----------------|--------------|
 | Account Number: | 3791769367   |
 | Date of Birth:  | 29-04-1997   |
 | Phone Number:   | +91-2994680443 |
-| Address:        | H No 595 Mital Zila, Alappuzha, Karnataka, PIN: 482366 |
-
----
+| Address:        | H No 595 Mital Zila, Alapuzha, Karnataka, PIN: 482366 |
 
 Statement Date: 12-09-2025
 
@@ -42,12 +35,7 @@ Statement Date: 12-09-2025
 | 10-09-2025  | Utility Payment    | 2,500.00  | -          | 1,32,500.00 |
 | 15-09-2025  | ATM Withdrawal     | 5,000.00  | -          | 1,27,500.00 |
 
----
-
-This is a computer-generated statement and does not require signature
-
----
+This is a computer-generated statement and does not require signature.
 
 National India Bank | Mumbai Main Branch
-
 Email: care@nationalindiabank.com | Phone: 1800-XXX-XXXX

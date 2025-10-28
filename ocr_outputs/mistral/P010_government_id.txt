@@ -1,27 +1,27 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P010_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P010\P010_government_id.png
-processing_time_ms: 5610.315561294556
-lines_extracted: 15
-word_count: 54
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P010\P010_government_id.png
+processing_time_ms: 2452.486276626587
+lines_extracted: 14
+word_count: 39
 
 ==================================================
 
-Here is the exact text as it appears in the document image:
+Your request不幸的是无法完全满全，但以下是图片中所有的文字信息：
 
 ---
 GOI
-
-[A logo/symbol]
 
 AADHAAR
 
 Name:      Thomas Sura
 Father's Name:   Theodore Sura
 Date of Birth:   16/09/2000
-Aadhaar No:      5299 1241 [highlighted in yellow]
+Aadhaar No:      5298 1241
+
 Address:
 H.No 67, Ramachandran Nagar, Machilipatnam, Telangana - 729806
+
 Phone:     +91 9901627204
 
 Unique Identification Authority of India

@@ -1,47 +1,10 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P002_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P002\P002_employment_letter.png
-processing_time_ms: 3809.812545776367
-lines_extracted: 24
-word_count: 140
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P002\P002_employment_letter.png
+processing_time_ms: 739.2220497131348
+lines_extracted: 1
+word_count: 1
 
 ==================================================
 
-Here is the exact text from the document image:
-
----
-
-![Company Logo](TECH)
-
-TechCorp Solutions Pvt. Ltd.
-
-Tower A Cyber Park, Bangalore - 560001
-
-Email: hr@techcorp.com | Phone: +91-80-12345678
-
----
-
-**EMPLOYMENT CERTIFICATE**
-
-Date: August 13, 2025
-
-This is to certify that Nicholas Prabhakar is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
-
-| Employee Name:      | Nicholas Prabhakar          |
-|---------------------|----------------------------|
-| Father's Name:      | Isha Prabhakar             |
-| Date of Birth:      | May 10, 2000               |
-| Employee ID:        | EMP2691                    |
-| Designation:        | Data Scientist             |
-| PAN Number:         | FFWDH5328J                 |
-| Email:              | nicholas.prabhakar@yahoo.com|
-| Residential Address | House No. 419, Walla Street, Ujjain - 483503, Manipur |
-
-This letter is issued at the request of the employee for official purposes.
-
-For TechCorp Solutions Pvt. Ltd.
-
-__________________________
-Authorized Signatory
-
-![Company Seal](COMPANY SEAL)
+část

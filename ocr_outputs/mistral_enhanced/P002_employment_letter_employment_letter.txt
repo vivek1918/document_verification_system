@@ -1,38 +1,46 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P002_employment_letter_employment_letter
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P002\P002_employment_letter.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P002\P002_employment_letter.png
 doc_type: employment_letter
-processing_time_ms: 2815.0577545166016
-lines_extracted: 19
-word_count: 101
+processing_time_ms: 3753.4408569335938
+lines_extracted: 23
+word_count: 136
 
 ==================================================
 
-[
+Sure, here is the exact text from the employment letter:
+
+---
+
 TechCorp Solutions Pvt. Ltd.
 
-Tower A Cyber Park, Bangalore - 560001
+Tower A Cyber Park Bangalore - 560001
+
 Email: hr@techcorp.com | Phone: +91-80-12345678
+
+---
 
 EMPLOYMENT CERTIFICATE
 
 Date: August 13, 2025
 
-This is to certify that Nicholas Prabhakaran is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
+This is to certify that Nicholas Prabhakar is a confirmed employee of TechCorp Solutions Pvt. Ltd. The details are as follows:
 
-Employee Name: Nicholas Prabhakaran
-Father's Name: Isha Prabhakaran
-Date of Birth: May 10, 2000
-Employee ID: EMP2691
-Designation: Data Scientist
-PAN Number: FFWDH5328J
-Email: nicholas.prabhakaran@yahoo.com
-Residential Address: House No. 419, Walla Street, Ujjian - 483503, Manipur
+| Employee Name:     | Nicholas Prabhakar          |
+|--------------------|----------------------------|
+| Father's Name:     | Isha Prabhakar             |
+| Date of Birth:     | May 10, 2000               |
+| Employee ID:       | EMP2691                    |
+| Designation:       | Data Scientist             |
+| PAN Number:        | FFWDH5328J                 |
+| Email:             | nicholas.prabhakar@yahoo.com|
+| Residential Address| House No. 419, Walla Street, Ujjan - 483503, Manipur |
 
-This letter is issued at the request of the employee for official purposes
+This letter is issued at the request of the employee for official purposes.
 
 For TechCorp Solutions Pvt. Ltd.
 
+__________________________
 Authorized Signatory
 
-]
+---

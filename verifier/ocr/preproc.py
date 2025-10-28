@@ -49,7 +49,7 @@ def preprocess_image(img_path: str) -> Tuple[Any, float]:
         _, thresh = cv2.threshold(denoised, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
         
         # Morphological operations to remove noise
-        kernel = np.ones((1, 1), np.uint8)
+        kernel = np.ones((3, 3), np.uint8)
         processed = cv2.morphologyEx(thresh, cv2.MORPH_CLOSE, kernel)
         processed = cv2.morphologyEx(processed, cv2.MORPH_OPEN, kernel)
         

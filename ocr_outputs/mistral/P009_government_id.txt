@@ -1,28 +1,32 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P009_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P009\P009_government_id.png
-processing_time_ms: 2270.164728164673
-lines_extracted: 14
-word_count: 41
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P009\P009_government_id.png
+processing_time_ms: 1926.4965057373047
+lines_extracted: 15
+word_count: 38
 
 ==================================================
 
-その一方で、このAadhaarカードのテキストは以下の通りです：
+--------------------------------------------------------------------------
 
-```
-GOI (Logo)
+GOI
+
+IΝDIΑ
 
 AADHAAR
 
-Name:      Manbir Ahluwalia
-Father’s Name:  Hredhaan Ahluwalia
+Name:          Manbir Ahluwalia
+Father’s Name: Hredeaan Ahluwalia
 Date of Birth:  08/01/1987
-Aadhaar No:     3487 3471 4345 (highlighted in yellow)
+Aadhaar No:     3487 3471 4345
 
 Address:
 32, Shetty Circle, Proddatur, Haryana - 727889
-Phone:     +915798687277
+Phone:         +915798687277
 
+--------------------------------------------------------------------------
 Unique Identification Authority of India
 www.uidai.gov.in
-```
+
+
+--------------------------------------------------------------------------

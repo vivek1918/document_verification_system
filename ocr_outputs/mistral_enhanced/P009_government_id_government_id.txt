@@ -1,30 +1,30 @@
 === MISTRAL_ENHANCED OCR OUTPUT ===
 Filename: P009_government_id_government_id
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp8wp3ll79\P009\P009_government_id.png
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P009\P009_government_id.png
 doc_type: government_id
-processing_time_ms: 10243.111610412598
+processing_time_ms: 3651.4551639556885
 lines_extracted: 15
-word_count: 57
+word_count: 47
 
 ==================================================
 
 Here is the exact text from the government ID document:
 
 ---
-GOI (Government of India logo)
+GOI
 
-UIDAI (Unique Identification Authority of India logo)
+UIDAI
 
 AADHAAR
 
-Name:    Manbir Ahluwalia
+Name:      Manbir Ahluwalia
 Father's Name:    Hredeaan Ahluwalia
 Date of Birth:    08/01/1987
-Aadhaar No:    3487 3471 4345
+Aadhaar No:       3487 3471 4345
 
 Address:
 32, Shetty Circle, Proddatur, Haryana - 727889
-Phone: +915798687277
+Phone:     +915798687277
 
 Unique Identification Authority of India
 www.uidai.gov.in

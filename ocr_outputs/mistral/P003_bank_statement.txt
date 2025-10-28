@@ -1,9 +1,9 @@
 === MISTRAL OCR OUTPUT ===
 Filename: P003_bank_statement
-image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmp2mc2qc8i\P003\P003_bank_statement.png
-processing_time_ms: 6092.689275741577
+image_path: C:\Users\VIVEKV~1\AppData\Local\Temp\tmpewuv2wud\P003\P003_bank_statement.png
+processing_time_ms: 9100.499868392944
 lines_extracted: 26
-word_count: 157
+word_count: 153
 
 ==================================================
 
@@ -19,27 +19,27 @@ Here is the exact text from the document image:
 
 # BANK STATEMENT
 
-### September 2025
+**September 2025**
 
 | Account Holder: | Amara Oak |
 |-----------------|-----------|
-| Account Number: | 7871331509 |
-| Date of Birth:  | 21-11-1979 |
+| Account Number: | 7871331509|
+| Date of Birth:  | 21-11-1979|
 | Phone Number:   | +91-2528809570 |
-| Address:        | H.No 62 Aggarwal Chowk, Orai, Tripura, PIN: 814893 |
+| Address:        | H.No 62 Aggarwal Chawk, Orai, Tripura, PIN: 814893 |
 
-### Statement Date: 12-09-2025
+**Statement Date: 12-09-2025**
 
-| Date        | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
-|-------------|-------------------|-----------|------------|-------------|
-| 01-09-2025  | Opening Balance   | -         | -          | 50,000.00    |
-| 05-09-2025  | Salary Credit     | -         | 85,000.00  | 1,35,000.00  |
-| 10-09-2025  | Utility Payment   | 2,500.00  | -          | 1,32,500.00  |
-| 15-09-2025  | ATM Withdrawal    | 5,000.00  | -          | 1,27,500.00  |
+| Date         | Description       | Debit (₹) | Credit (₹) | Balance (₹) |
+|--------------|-------------------|-----------|------------|-------------|
+| 01-09-2025   | Opening Balance   | -         | -          | 50,000.00   |
+| 05-09-2025   | Salary Credit     | -         | 85,000.00  | 1,35,000.00 |
+| 10-09-2025   | Utility Payment   | 2,500.00  | -          | 1,32,500.00 |
+| 15-09-2025   | ATM Withdrawal    | 5,000.00  | -          | 1,27,500.00 |
 
 ---
 
-This is a computer-generated statement and does not require signature
+This is a computer-generated statement and does not require signature.
 
 ---
 
